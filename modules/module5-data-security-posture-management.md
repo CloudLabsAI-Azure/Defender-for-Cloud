@@ -21,7 +21,7 @@ Defender CSPM extends existing free posture management capabilities to help secu
 
       ![](../images/def1.png)
 
-2. Data sensitivity context is also used in Security Alerts and you can quickly filter based on the type of Sensitivity Information. Navigate to **Security alerts** click on **Add filters**, and set it to **Sensitivity info types**.
+2. Data sensitivity context is also used in Security Alerts and you can quickly filter based on the type of Sensitivity Information. Navigate to **Security alerts** click on **Add filter**, and set it to **Sensitivity info types**.
 
      ![](../images/def3.png) 
 
@@ -46,7 +46,7 @@ In this exercise, you will learn how to enable Defender for CSPM and leverage De
 
       ![](../images/m1-img1.png)
 
-2. From **Defender for Cloud** menu, click on **Environment Settings (1)** page and select your subscription **(2)**.
+2. From **Microsoft Defender for Cloud** menu, click on **Environment Settings (1)** page and select your subscription **(2)**.
 
       ![](../images/m1-img2.png)
 
