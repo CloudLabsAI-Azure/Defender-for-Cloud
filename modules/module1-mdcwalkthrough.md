@@ -1,4 +1,4 @@
-![image](https://github.com/CloudLabsAI-Azure/Defender-for-Cloud/assets/113567986/8ed47726-de3d-4255-9abf-d80f14854078)# Module B - Exploring Microsoft Defender for Cloud
+# Module B - Exploring Microsoft Defender for Cloud
 
 ### Task 1: Understanding Microsoft Defender for Cloud Dashboard 
 
@@ -55,40 +55,40 @@
 
      ![Overview: Regulatory Compliance tile](../images/sub.png)
 
-1. From the **Environment settings** page navigate on **Security policies (1)**. In the search bar, search for **ISO 27001:2013 (2)**. Click on the toggle button to change the status to **On (3)**.
+11. From the **Environment settings** page navigate on **Security policies (1)**. In the search bar, search for **ISO 27001:2013 (2)**. Click on the toggle button to change the status to **On (3)**.
 
      ![Overview: Regulatory Compliance tile](../images/defender1.4.png)
      
-18. Now on the **Security policies (1)** page, In the search bar, search for **SOC 2 Type 2 (2)**. Click on the toggle button to change the status to **On (3)**.
+12. Now on the **Security policies (1)** page, In the search bar, search for **SOC 2 Type 2 (2)**. Click on the toggle button to change the status to **On (3)**.
 
      ![Overview: Regulatory Compliance tile](../images/defender1.5.png) 
 
-1. On the **Set parameters** blade, enter the following details and click on **Save (4)**.
+13. On the **Set parameters** blade, enter the following details and click on **Save (4)**.
 
 	- Allowed registry or registries regex: **[] (1)**
  	- Max allowed CPU units: **200m (2)**
    	- Max allowed memory bytes: **1 (3)** 
 
-        ![Overview: Regulatory Compliance tile](../images/defender1.6.png) 
+     ![Overview: Regulatory Compliance tile](../images/defender1.6.png) 
 
 
-22. Navigate back to **Regulatory Compliance** to view the recently added standards click on **Show all 4**.
+24. Navigate back to **Regulatory Compliance** to view the recently added standards click on **Show all 4**.
 
     > **Note**: It can take up to two hours for newly added standards to appear under the **Lowest compliance regulatory standard**. Please move on to the next step; you can review the standards later.
 
     ![Overview: Regulatory Compliance tile](../images/regulatory.png)
 
 
-22. On the **Workload Protections** **(1)**, under Cloud Security, you can see the coverage of your **connected resources (2)** for the currently selected subscription. Your current resource coverage should be **fully covered 100% (3)** which means **full protection**. Additionally, you can also view the recent **security alerts (4)**, color-coded by severity.
+15. On the **Workload Protections** **(1)**, under Cloud Security, you can see the coverage of your **connected resources (2)** for the currently selected subscription. Your current resource coverage should be **fully covered 100% (3)** which means **full protection**. Additionally, you can also view the recent **security alerts (4)**, color-coded by severity.
 
      ![Overview: Microsoft Defender  for Cloud tile](../images/dfc5.png)
 
-23. Next Click on **Inventory** from the **General** section of the Microsoft Defender for Cloud. It shows the number of unmonitored VMs alongside the total covered resources - **you should expect to have zero unmonitored VMs**. Resources are classified according to their health status.
+16. Next Click on **Inventory** from the **General** section of the Microsoft Defender for Cloud. It shows the number of unmonitored VMs alongside the total covered resources - **you should expect to have zero unmonitored VMs**. Resources are classified according to their health status.
 
      > Info: 
      > Unmonitored VMs are considered virtual machines that have a Log Analytics agent deployed, but the agent isn't sending data or has other health issues.
 
-    ![Overview: Secure Score tile](../images/msdefender5.1.png)   
+    ![Overview: Secure Score tile](../images/mod-2-Task1-10.png)   
 
 
 ### Task 2: Exploring Secure Score and Recommendations 
