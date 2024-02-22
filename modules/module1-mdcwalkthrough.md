@@ -44,6 +44,7 @@
     ![Overview: Secure Score tile](../images/M1-T1-S8.png)
 
     > **Info**: The higher the score, the lower the identified risk level.
+    > **Note**: If you don't see the above recommendation that means it is not loaded yet to the control list and it could take up to 24 hours for all the recommendations to show up. It is possible that during lab time, this may not show up – which is the case sometimes. You can note down this step number then continue to the next exercise and verify this later.
 
 9. On the **Regulatory Compliance (1)** tile, you can get insights into your compliance posture based on continuous assessment of both Azure and hybrid cloud environments. This tile shows the following standards which are **Microsoft Cloud Security benchmark (2)**, and **Lowest compliance regulatory standard (3)** to view the data we first need to add **Security policies**. 
  
@@ -102,7 +103,7 @@ Previously, we briefly explored the Secure Score tile on the overview page. Now 
 
 2. On the Secure score page, **review your current overall secure score percentage**.
 
-	> **Note**: Your score is shown as a percentage value, but you can also see the number of points on which the score is being calculated based on. 
+	> **Note**: Your score is shown as a percentage value, but you can also see the number of points on which the score is being calculated based on. If you don't see the above recommendation that means it is not loaded yet to the control list and it could take up to 24 hours for all the recommendations to show up. It is possible that during lab time, this may not show up – which is the case sometimes. You can note down this step number then continue to the next exercise and verify this later.
 
     ![Overall Secure Score](../images/dfc6.png)
 
@@ -123,9 +124,9 @@ Previously, we briefly explored the Secure Score tile on the overview page. Now 
 
      ![Overall Secure Score](../images/M1-T3-S3.png)
 
-3. Under **Recommendation**, Click on **Manage access and permissions** and select **Storage account public access should be disallowed** from the drop down list.
+3. Under **All recommendation**, search and select **Storage account public access should be disallowed**.
 
-     ![](../images/M1-T3-S6.1.png)
+     ![](../images/mod-2-Task3-4.png)
 
 4. On the top section, notice the following:
 
@@ -142,7 +143,9 @@ Previously, we briefly explored the Secure Score tile on the overview page. Now 
 6. Under **Affected resources**, **select a resource** (the single **storage account** on the Unhealthy resources) and click on **Fix**. This will automatically apply the remediation on the selected resource.
 
      ![](../images/affectedresources.png)
-  
+
+    > **Note**: If the storage account isn't visible under Unhealthy resources, verify whether it has already been moved to Healthy resources, then proceed to the next exercise.
+
 11. This will open a new window - **Fixing resources**, review the implications for this remediation and click on **Fix 1 resource**.
 
      ![](../images/ex2.step13.png)
