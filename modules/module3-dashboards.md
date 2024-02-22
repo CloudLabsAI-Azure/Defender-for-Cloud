@@ -18,23 +18,19 @@ Other than the overall dashboard we discussed in Module 1, Microsoft Defender fo
 
    ![Ransomware Recommendations](../images/M3-T1-S2.png)
 
-4. Select **Discovery (1)** and **Container and Resource Discovery (2)**.
-
-   ![Ransomware Recommendations](../images/M3-T1-S3.png)
-
-5. You can filter the techniques. We will leave **All** selected.
+4. You can filter the techniques. We will leave **All** selected.
 
    ![Ransomware Recommendations](../images/M3-T1-S4.png)
 
-6. Click on expand grid **(1)**, next under the **Discover (2)** section, select **asclab-aks (3)**, and click the **Go to recommendation (4)** link.
+5. Click on expand grid **(1)**, next under the **Discover (2)** section, select **asclab-aks (3)**, and click the **Go to recommendation (4)** link.
 
     ![Ransomware Recommendations](../images/dfc7.png)
 
-7. You will be taken to the recommendation details that contain remediation steps and an option to fix.
+6. You will be taken to the recommendation details that contain remediation steps and an option to fix.
 
     ![Ransomware Recommendations](../images/M3-T1-S6.png)
 
-8. Close the workbook by clicking the **X** at the top right corner of the screen.
+7. Close the workbook by clicking the **X** at the top right corner of the screen.
 
 
 ### Task 2: Identifying the coverage of your attack surface
@@ -74,7 +70,7 @@ In addition to the workbooks available in the Azure Portal, you can also deploy 
 
 4. Choose the **subscription (1)** and select **asclab-WAF (2)** for **Resource Group** from the dropdown, leaving other settings unchanged. Press the **Review + Create (3)** button at the bottom left corner. On the subsequent screen, press **Create**.
 
-   ![Community Workbook](../images/M3-T3-S4.png)
+   ![Community Workbook](../images/mod-4-Task3-1.png)
 
 5. Once deployment is completed, select **Go to resource** from the screen.
 
