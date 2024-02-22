@@ -110,7 +110,7 @@ Previously, we briefly explored the Secure Score tile on the overview page. Now 
    > For more information on how the score is calculated, [refer to the secure score documentation page](https://docs.microsoft.com/en-us/azure/security-center/secure-score-security-controls#how-your-secure-score-is-calculated).
 
 
-3. On the bottom part, you can see a list of subscriptions and their current score. To view the recommendations behind the score, click on **view recommendations**.
+3. On the bottom part, you can see a list of subscriptions and their current score. To view the recommendations behind the score, click on **Owner > View recommendations**.
 
 
 ### Task 3: Exploring Security Controls and Recommendations 
