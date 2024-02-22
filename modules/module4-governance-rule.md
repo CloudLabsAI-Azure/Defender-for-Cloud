@@ -10,7 +10,7 @@ The rule assigns an owner and due date to ensure the recommendations are handled
 
 ### Task 1: Assign Governance Rule
 
-1. From the **Defender for Cloud** menu, click on **Environment Settings (1)** page and click on **Governance rules (2)**.
+1. From the **Microsoft Defender for Cloud** menu, click on **Environment Settings (1)** page and click on **Governance rules (2)**.
 
     ![](../images/defender1.7.png)
 
@@ -31,13 +31,21 @@ The rule assigns an owner and due date to ensure the recommendations are handled
 
         ![](../images/m1-img22.png)
 
-6. On the **Rule created successfully** pop-up select the check box next to **Apply rule to the 42 existing recommendations that are unassigned** and click on **OK**.
+6. On the **Rule created successfully** pop-up select the check box next to **Apply rule to the 24 existing recommendations that are unassigned** and click on **OK**.
 
-    ![](../images/a1.6.png)
+    ![](../images/mod-5-Task1-1.png)
 
 7. Click on **Governance report** to view the status of tasks **Complete, Ontime and Unassign**.
 
     ![](../images/m1-img23.png)
     
-    ![](../images/m1-img24.png)
+    ![](../images/mod-5-Task1-2.png)
 
+    >**Note:** If the resource status isn't visible in the integrated environment, you may need to modify the browser zoom level.
+
+  **Congratulations** on completing the lab! Now, it's time to validate it. Here are the steps:
+
+  > - Navigate to the Lab Validation tab, from the upper right corner in the lab guide section.
+  > - Hit the Validate button for the corresponding task. If you receive a success message, you have successfully validated the lab. 
+  > - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
+  > - If you need any assistance, please contact us at labs-support@spektrasystems.com.
