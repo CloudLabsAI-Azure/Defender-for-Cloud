@@ -106,7 +106,7 @@ Previously, we briefly explored the Secure Score tile on the overview page. Now 
 
     ![Overall Secure Score](../images/dfc6.png)
 
-  > **Note**: Your score is shown as a percentage value, but you can also see the number of points on which the score is being calculated based on. If you don't see your secure score that means it is not loaded yet to the control list and it could take up to 24 hours for score to show up. It is possible that during lab time, this may not show up – which is the case sometimes. You can note down this step number then continue to the next exercise and verify this later.
+  > **Note**: Your score is shown as a percentage value, but you can also see the number of points on which the score is being calculated based on. If you don't see your secure score that means it is not loaded yet to the control list and it could take up to 24 hours for score to show up. It is possible that during lab time, this may not show up – which is the case sometimes. You can note down this step number then continue to the next task and verify this later.
 
    > **Info**: For more information on how the score is calculated, [refer to the secure score documentation page](https://docs.microsoft.com/en-us/azure/security-center/secure-score-security-controls#how-your-secure-score-is-calculated).
 
@@ -189,7 +189,7 @@ Asset inventory dashboard allows you to get a single pane of glass view of all y
 
     ![Remediate a resource](../images/mod-2-Task4-1.png)
 
-    > **Note**: It could take up to 24 hours for all the recommendations to show up. And it is possible that during lab time, this may not show up – which is the case sometimes. If you don't see the data in **recommendations**. You can continue to the next exercise and verify this later.
+    > **Note**: It could take up to 24 hours for all the recommendations to show up. And it is possible that during lab time, this may not show up – which is the case sometimes. If you don't see the data in **recommendations**. You can continue to the next step and verify this later.
 
 9. Navigate back to the Inventory page and clear the search keyword **Linux**. Then from the filter menu, select the **Resource Groups (1)** filter and from the drop-down menu of **value** select **asclab-aks (2)** (Unselect remaining), and click on **Ok (3)**. Using this filter, you can see all resources related to the predefined Kubernetes resources which are monitored with active recommendations.
 
