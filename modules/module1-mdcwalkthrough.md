@@ -1,4 +1,4 @@
-# Module B - Exploring Microsoft Defender for Cloud
+![image](https://github.com/CloudLabsAI-Azure/Defender-for-Cloud/assets/113567986/8ed47726-de3d-4255-9abf-d80f14854078)# Module B - Exploring Microsoft Defender for Cloud
 
 ### Task 1: Understanding Microsoft Defender for Cloud Dashboard 
 
@@ -6,28 +6,28 @@
 
     ![Microsoft Defender for Cloud](../images/M0-T1-S1.2.png)   
 
-2. On the **Overview (1)** blade notes that it now provides a unified view into the security posture and includes multiple independent cloud security pillars such as **Security posture, Regulatory compliance, Workload protections, Firewall Manager, Inventory, and Information Protection (preview) (2)**. Each of these pillars also has its dedicated dashboard allowing deeper insights and actions around that vertical, providing easy access and better visibility for security professionals.
+2. On the **Overview (1)** blade notes that it now provides a unified view into the security posture and includes multiple independent cloud security pillars such as **Security posture, Regulatory compliance, Workload protections and Inventory**. Each of these pillars also has its dedicated dashboard allowing deeper insights and actions around that vertical, providing easy access and better visibility for security professionals.
 
    > **Info**: Microsoft Defender for Cloud takes time to populate information such as secure score, compliance, recommendations, etc. after enabling the services and enrolling the servers in Microsoft Defender for Cloud.
  
-   ![Microsoft Defender for Cloud Snapshot](../images/M1-T1-S1.png)  
+   ![Microsoft Defender for Cloud Snapshot](../images/mod-2-Task1-2.png)  
 
 
 3. Note that the **top menu** bar allows you to view and filter subscriptions by selecting the **Subscriptions** button. In this lab, we will use only one but selecting different/additional subscriptions will adjust the interface to reflect the security posture of the selected subscriptions.
 
-   ![Microsoft Defender for Cloud Snapshot](../images/M1-T1-S2.png)  
+   ![Microsoft Defender for Cloud Snapshot](../images/mod-2-Task1-3.png)  
 
 4. Click on the **What’s new** button – a new tab opens with the latest release notes where you can stay current on the new features, bug fixes, and more.
 
-    ![Microsoft Defender for Cloud Snapshot](../images/M1-T1-S4.png)  
+    ![Microsoft Defender for Cloud Snapshot](../images/mod-2-Task1-4.png)  
 	
 5. Note the **high-level numbers** at the top menu; This view allows you to see a summary of your subscriptions, active recommendations, and security alerts alongside connected cloud accounts.
 
-    ![Microsoft Defender for Cloud: Top menu](../images/M1-T1-S5.png) 
+    ![Microsoft Defender for Cloud: Top menu](../images/mod-2-Task1-5.png) 
 
 6. From the top menu bar, click on **Azure subscriptions**.
 	
-    ![Microsoft Defender for Cloud: Coverage](../images/M1-T1-S6.png)
+    ![Microsoft Defender for Cloud: Coverage](../images/mod-2-Task1-6.png)
 
     - This will bring you into the environment settings. Then select the available subscription. 
 
@@ -49,7 +49,7 @@
  
      > Clicking on this tile will redirect you to the Regulatory Compliance dashboard – where you can add additional standards and explore the current ones. 
 
-     ![Overview: Regulatory Compliance tile](../images/regcomp.png)
+     ![Overview: Regulatory Compliance tile](../images/mod-2-Task1-8.png)
    
 10. Navigate to **Environment settings (1)**, select the available **Subscription (2)**. 
 
