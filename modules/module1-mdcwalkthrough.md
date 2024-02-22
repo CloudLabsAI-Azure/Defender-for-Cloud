@@ -176,7 +176,7 @@ Asset inventory dashboard allows you to get a single pane of glass view of all y
 
 6. Use the **Filter by name** box to search for **linux** **(1)**. You should now see a filtered view containing your desired resource: **asclab-linux**. Hover on the red bar in the **recommendations** column to see a tooltip with the **active recommendations (2)**. You should expect to see **Active-xx of xx Recommendations** – these are the active recommendations you must attend.
 
-    ![linux-recommendations](../images/ex3.step7.png)
+    ![linux-recommendations](../images/mod-2-Task3-3.png)
 
 7. Open the resource health pane by selecting the resource. Click on **asclab-linux**. Alternately. you can also right-click on any resource and select **view resource**. You may not see **view resource** directly due to different screen resolutions, then you have to click on ellipse(...) and then select **View resource (3)**.
 
@@ -184,7 +184,7 @@ Asset inventory dashboard allows you to get a single pane of glass view of all y
 
 8. On the resource health pane for **asclab-linux**, review the virtual machine information alongside the recommendation list.
 
-    ![Remediate a resource](../images/healthpreview.png)
+    ![Remediate a resource](../images/mod-2-Task4-1.png)
 
     > **Note**: It could take up to 24 hours for all the recommendations to show up. And it is possible that during lab time, this may not show up – which is the case sometimes. If you don't see the data in **recommendations**. You can continue to the next exercise and verify this later.
 
@@ -200,7 +200,7 @@ Asset inventory dashboard allows you to get a single pane of glass view of all y
 
 11. Tags are a very common asset management feature within Azure. With the help of this feature, resources can be tagged using a Tag name and value. These assigned tags can organize your assets and categorize them with the help of filters. Let us now assign the following Tags:
 
-	* Filter the **Resource type** column to include only **App Services or web services**: Select the **Resource type** filter and select **Web apps** under the Value and Click on **OK**
+	* Filter the **Resource type** column to include only **App Services or web services**: Select the **Resource types** filter and select **Web apps** and **function apps** under the Value and Click on **OK**
 	* **Select** the checkboxes of the two app services named *asclab-fa-xx* and *asclab-app-xx*. (Here **xx** is the unique id of the resource).
 	* From the top menu, click **Assign tags**
 	* Assign `Environment` as the name and  `Production` as the value.
@@ -241,7 +241,7 @@ Refer to the following to learn more about Defender for cloud pricing:
 
 2. In the **Cost Estimation** workbook, you can observe the estimated pricing for the resources.
 
-    ![MDC pricing](../images/costworkbook.png)
+    ![MDC pricing](../images/mod-2-Task5-1.png)
    
 
 ### Task 6: Overview of CWP capabilities  (Read Only) 
