@@ -84,7 +84,7 @@ In addition to the workbooks available in the Azure Portal, you can also deploy 
 
     ![Community Workbook](../images/M3-T3-S7-1.png)
 
->**Note**: You can repeat this process to deploy other Workbooks from the community repo or any that you have created.
+>**Note**: You can repeat this process to deploy other Workbooks from the community repo or any that you have created. If you don't see subscription scores that means it is not loaded yet to the control list and it could take up to 24 hours for it to show up. It is possible that during lab time, this may not show up – which is the case sometimes. You can note down this step number then continue to the next exercise and verify this later.
 
   **Congratulations** on completing the lab! Now, it's time to validate it. Here are the steps:
 
