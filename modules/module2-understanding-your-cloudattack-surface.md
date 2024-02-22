@@ -62,23 +62,23 @@ Defender for Cloud uses the graph to perform an attack path analysis (Attack Pat
 
 1. Let's build our scenario where we will identify public, vulnerable machines that can access object storage.
 
-1. Choose the **Internet exposed VMs with high severity vulnerabilities (1)** template from **Query Templates** and click on **Search (2)**.
+1. Choose the **Internet exposed VMs(1)** template from **Query Templates** and click on **Search (2)**.
 
-   ![Cloud Security Explorer VM example](../images/select-query.png?raw=true)
+   ![Cloud Security Explorer VM example](../images/mod-3-Task2-1.png?raw=true)
 
-1. You will see a list of machines that are not only publicly exposed but also vulnerable. Now, let's expand this to identify machines that have permissions to other resources (managed identities). 
+1. You will see a list of machines that are publicly exposed. Now, let's expand this to identify machines that have permissions to other resources (managed identities). 
 
 1. Click on the **plus (1)** next to Virtual Machines (group), from the drop-down of **select Condition (2)**, select **Networking (3)**, and select **Exposed to the Internet (4)**.
 
-   ![Cloud Security Explorer Custom Scenario](../images/attack5.png?raw=true)
+   ![Cloud Security Explorer Custom Scenario](../images/mod-3-Task2-2.png?raw=true)
 
 1. From the drop-down of **Click on + button (1)** to enable new options, under **Where** select **Port (2)**, and on **Equals** enter **3389 (3)** next to exposed to the internet.
 
-    ![Cloud Security Explorer Custom Scenario](../images/attack7.png?raw=true)
+    ![Cloud Security Explorer Custom Scenario](../images/mod-3-Task2-3.png?raw=true)
 
 1. Then click on the **Search** button, and you will see a list of machines that can be the target of this attack path.
 
-    ![Cloud Security Explorer Custom Scenario](../images/attack10.png?raw=true)
+    ![Cloud Security Explorer Custom Scenario](../images/mod-3-Task2-4.png?raw=true)
 
 **Note:** All the machines shown in the image won't be available.
 
