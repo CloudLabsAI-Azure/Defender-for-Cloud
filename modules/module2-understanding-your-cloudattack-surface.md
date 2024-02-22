@@ -24,7 +24,7 @@ Defender for Cloud uses the graph to perform an attack path analysis (Attack Pat
 
    ![Attack Paths](../images/mdfc-attackpath.png?raw=true)
 
-    > **Note**: If you don't see the above recommendation that means it is not loaded yet to the control list and it could take up to 24 hours for all the recommendations to show up. It is possible that during lab time, this may not show up – which is the case sometimes. You can note down this step number then continue to the next task and verify this later.
+    > **Note**: If you don't see the secure score recommendations that means it is not loaded yet to the control list and it could take up to 24 hours for all the recommendations to show up. It is possible that during lab time, this may not show up – which is the case sometimes. You can note down this step number then continue to the next task and verify this later. But, you can see the recommendations in **All recommendations** and search for it.
 
 3. In **Microsoft Defender for Cloud | Attack path analysis** page. Each attack path represents a scenario that you should be aware of. The title **Internet exposed VM has high severity vulnerabilities (1)** itself provides you with a quick understanding of how the risk exposure might manifest, which allows you to quickly prioritize your investigation.
 
