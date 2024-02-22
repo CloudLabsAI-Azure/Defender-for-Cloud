@@ -29,42 +29,43 @@
 	
     ![Microsoft Defender for Cloud: Coverage](../images/mod-2-Task1-6.png)
 
-    - This will bring you into the environment settings. Then select the available subscription. 
+7. This will bring you into the environment settings. Then select the available subscription. 
 
-   	    ![Microsoft Defender for Cloud: Coverage](../images/M1-T1-S6.1.png)
+     ![Microsoft Defender for Cloud: Coverage](../images/M1-T1-S6.1.png)
 
-7. On the **Defender plans** page, note that your subscription is fully covered – which means that your subscription is covered by Microsoft Defender for Cloud. 	
+8. On the **Defender plans** page, note that your subscription is fully covered – which means that your subscription is covered by Microsoft Defender for Cloud. 	
 
     ![Microsoft Defender for Cloud: Coverage](../images/defender1.png)
 
     > **Info**: This page shows a list of subscriptions and their coverage type. You can use this page to find subscriptions that are not covered by Microsoft Defender for Cloud and help you identify “shadow IT” subscriptions.
 
-8. Go back to the **Overview** page, and look at the **Security posture** tile, you can see your current score along with the number of completed controls and recommendations. Clicking on this tile will redirect you to a drill-down view across subscriptions.
+9. Go back to the **Overview** page, and look at the **Security posture** tile, you can see your current score along with the number of completed controls and recommendations. Clicking on this tile will redirect you to a drill-down view across subscriptions.
 
     ![Overview: Secure Score tile](../images/M1-T1-S8.png)
 
     > **Info**: The higher the score, the lower the identified risk level.
-    > **Note**: If you don't see the above recommendation that means it is not loaded yet to the control list and it could take up to 24 hours for all the recommendations to show up. It is possible that during lab time, this may not show up – which is the case sometimes. You can note down this step number then continue to the next exercise and verify this later.
 
-9. On the **Regulatory Compliance (1)** tile, you can get insights into your compliance posture based on continuous assessment of both Azure and hybrid cloud environments. This tile shows the following standards which are **Microsoft Cloud Security benchmark (2)**, and **Lowest compliance regulatory standard (3)** to view the data we first need to add **Security policies**. 
+    > **Note**: If you don't see the above recommendation that means it is not loaded yet to the control list and it could take up to 24 hours for all the recommendations to show up. It is possible that during lab time, this may not show up – which is the case sometimes. You can note down this step number then continue to the next step and verify this later.
+
+10. On the **Regulatory Compliance (1)** tile, you can get insights into your compliance posture based on continuous assessment of both Azure and hybrid cloud environments. This tile shows the following standards which are **Microsoft Cloud Security benchmark (2)**, and **Lowest compliance regulatory standard (3)** to view the data we first need to add **Security policies**. 
  
-     > Clicking on this tile will redirect you to the Regulatory Compliance dashboard – where you can add additional standards and explore the current ones. 
+     > **Info**: Clicking on this tile will redirect you to the Regulatory Compliance dashboard – where you can add additional standards and explore the current ones. 
 
      ![Overview: Regulatory Compliance tile](../images/mod-2-Task1-8.png)
    
-10. Navigate to **Environment settings (1)**, select the available **Subscription (2)**. 
+11. Navigate to **Environment settings (1)**, select the available **Subscription (2)**. 
 
      ![Overview: Regulatory Compliance tile](../images/sub.png)
 
-11. From the **Environment settings** page navigate on **Security policies (1)**. In the search bar, search for **ISO 27001:2013 (2)**. Click on the toggle button to change the status to **On (3)**.
+12. From the **Environment settings** page navigate on **Security policies (1)**. In the search bar, search for **ISO 27001:2013 (2)**. Click on the toggle button to change the status to **On (3)**.
 
      ![Overview: Regulatory Compliance tile](../images/defender1.4.png)
      
-12. Now on the **Security policies (1)** page, In the search bar, search for **SOC 2 Type 2 (2)**. Click on the toggle button to change the status to **On (3)**.
+13. Now on the **Security policies (1)** page, In the search bar, search for **SOC 2 Type 2 (2)**. Click on the toggle button to change the status to **On (3)**.
 
      ![Overview: Regulatory Compliance tile](../images/defender1.5.png) 
 
-13. On the **Set parameters** blade, enter the following details and click on **Save (4)**.
+14. On the **Set parameters** blade, enter the following details and click on **Save (4)**.
 
 	- Allowed registry or registries regex: **[] (1)**
  	- Max allowed CPU units: **200m (2)**
@@ -73,18 +74,18 @@
      ![Overview: Regulatory Compliance tile](../images/defender1.6.png) 
 
 
-24. Navigate back to **Regulatory Compliance** to view the recently added standards click on **Show all 4**.
+15. Navigate back to **Regulatory Compliance** to view the recently added standards click on **Show all 4**.
 
     > **Note**: It can take up to two hours for newly added standards to appear under the **Lowest compliance regulatory standard**. Please move on to the next step; you can review the standards later.
 
     ![Overview: Regulatory Compliance tile](../images/regulatory.png)
 
 
-15. On the **Workload Protections** **(1)**, under Cloud Security, you can see the coverage of your **connected resources (2)** for the currently selected subscription. Your current resource coverage should be **fully covered 100% (3)** which means **full protection**. Additionally, you can also view the recent **security alerts (4)**, color-coded by severity.
+16. On the **Workload Protections** **(1)**, under Cloud Security, you can see the coverage of your **connected resources (2)** for the currently selected subscription. Your current resource coverage should be **fully covered 100% (3)** which means **full protection**. Additionally, you can also view the recent **security alerts (4)**, color-coded by severity.
 
      ![Overview: Microsoft Defender  for Cloud tile](../images/dfc5.png)
 
-16. Next Click on **Inventory** from the **General** section of the Microsoft Defender for Cloud. It shows the number of unmonitored VMs alongside the total covered resources - **you should expect to have zero unmonitored VMs**. Resources are classified according to their health status.
+17. Next Click on **Inventory** from the **General** section of the Microsoft Defender for Cloud. It shows the number of unmonitored VMs alongside the total covered resources - **you should expect to have zero unmonitored VMs**. Resources are classified according to their health status.
 
      > Info: 
      > Unmonitored VMs are considered virtual machines that have a Log Analytics agent deployed, but the agent isn't sending data or has other health issues.
@@ -103,12 +104,11 @@ Previously, we briefly explored the Secure Score tile on the overview page. Now 
 
 2. On the Secure score page, **review your current overall secure score percentage**.
 
-	> **Note**: Your score is shown as a percentage value, but you can also see the number of points on which the score is being calculated based on. If you don't see the above recommendation that means it is not loaded yet to the control list and it could take up to 24 hours for all the recommendations to show up. It is possible that during lab time, this may not show up – which is the case sometimes. You can note down this step number then continue to the next exercise and verify this later.
-
     ![Overall Secure Score](../images/dfc6.png)
 
+  > **Note**: Your score is shown as a percentage value, but you can also see the number of points on which the score is being calculated based on. If you don't see your secure score that means it is not loaded yet to the control list and it could take up to 24 hours for score to show up. It is possible that during lab time, this may not show up – which is the case sometimes. You can note down this step number then continue to the next exercise and verify this later.
 
-   > For more information on how the score is calculated, [refer to the secure score documentation page](https://docs.microsoft.com/en-us/azure/security-center/secure-score-security-controls#how-your-secure-score-is-calculated).
+   > **Info**: For more information on how the score is calculated, [refer to the secure score documentation page](https://docs.microsoft.com/en-us/azure/security-center/secure-score-security-controls#how-your-secure-score-is-calculated).
 
 
 3. On the bottom part, you can see a list of subscriptions and their current score. To view the recommendations behind the score, click on **Owner > View recommendations**.
