@@ -88,5 +88,11 @@ In addition to the workbooks available in the Azure Portal, you can also deploy 
 
     ![Community Workbook](../images/M3-T3-S7-1.png)
 
-
 >**Note**: You can repeat this process to deploy other Workbooks from the community repo or any that you have created.
+
+  **Congratulations** on completing the lab! Now, it's time to validate it. Here are the steps:
+
+  > - Navigate to the Lab Validation tab, from the upper right corner in the lab guide section.
+  > - Hit the Validate button for the corresponding task. If you receive a success message, you have successfully validated the lab. 
+  > - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
+  > - If you need any assistance, please contact us at labs-support@spektrasystems.com.
