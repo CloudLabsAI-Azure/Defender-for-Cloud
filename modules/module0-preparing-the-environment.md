@@ -56,3 +56,5 @@
 8. Click on **Save**.
 
    ![Enable Microsoft Defender for Cloud on the workspace level](../images/M0-T3-S5.1.png)
+
+## You have successfully completed the lab. Click on Next >>.
