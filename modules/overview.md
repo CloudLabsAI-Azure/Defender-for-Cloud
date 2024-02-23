@@ -20,3 +20,4 @@ In this workshop, learn MDC's core capabilities and dive into these use cases:
 * Duration: 4 hours
 ---
 
+## Click on Next >>.
