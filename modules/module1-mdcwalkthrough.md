@@ -72,7 +72,7 @@
         ![Overview: Regulatory Compliance tile](../images/defender1.6.png) 
 
 
-22. Navigate back to **Regulatory Compliance** to view the recently added standards click on **Show all 4**.
+22. Navigate back to **Regulatory Compliance** to view the recently added standards click on **Show all**.
 
     > **Note**: It can take up to two hours for newly added standards to appear under the **Lowest compliance regulatory standard**. Please move on to the next step; you can review the standards later.
 
