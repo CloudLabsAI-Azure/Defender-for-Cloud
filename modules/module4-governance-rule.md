@@ -35,7 +35,9 @@ The rule assigns an owner and due date to ensure the recommendations are handled
 
     ![](../images/a1.6.png)
 
-7. Click on **Governance report** to view the status of tasks **Complete, Ontime and Unassign**.
+   **Note:** You might have different pop-up wherein the existing recommendations count may vary.
+
+8. Click on **Governance report** to view the status of tasks **Complete, Ontime and Unassign**.
 
     ![](../images/m1-img23.png)
     
