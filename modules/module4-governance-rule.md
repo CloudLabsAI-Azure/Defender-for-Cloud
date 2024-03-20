@@ -29,7 +29,7 @@ The rule assigns an owner and due date to ensure the recommendations are handled
    - **Email address**: <inject key="AzureAdUserEmail"></inject> **(3)**
    - **Remediation timeframe**: `90 days` **(4)**
 
-        ![](../images/m1-img22.png)
+        ![](../images/m1-img22_new.png)
 
 6. On the **Rule created successfully** pop-up select the check box next to **Apply rule to the 42 existing recommendations that are unassigned** and click on **OK**.
 
