@@ -239,9 +239,9 @@ Refer to the following to learn more about Defender for cloud pricing:
 
     ![MDC pricing](../images/costdefnder.png)
 
-2. In the **Cost Estimation** workbook, you can observe the estimated pricing for the resources.
+2. In the **Cost Estimation** workbook, you can observe the estimated pricing for the resources in both the Defender plans for Azure.
 
-    ![MDC pricing](../images/costworkbook.png)
+    ![MDC pricing](../images/costworkbook_new.png)
    
 
 ### Task 6: Overview of CWP capabilities  (Read Only) 
