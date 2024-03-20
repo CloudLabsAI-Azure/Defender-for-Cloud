@@ -113,7 +113,7 @@ Previously, we briefly explored the Secure Score tile on the overview page. Now 
 3. On the bottom part, you can see a list of subscriptions and their current score. To view the recommendations behind the score, click on **view recommendations**.
 
 
-### Task 3: Exploring Security Controls and Recommendations 
+### Task 3: Exploring Security Controls and Recommendations (Read-Only)
 
 1. On the **Recommendations (1)** page, pay attention to the first part of the page; the **summary view (2)** which includes the current score, progress on the recommendations (both completed security controls and recommendations) and resource health (by severity).
 
