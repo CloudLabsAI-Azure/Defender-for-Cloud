@@ -12,12 +12,6 @@
 
    ![Template deployment completed](../images/dfc1.png)
 
-3. On the **Install agents (1)** tab, select the **Subscription (2)** and click **Install agents (3)** to install agents to the resources in the subscription.
-
-    **Note:** If agents are already installed, you can skip this step.
-
-   ![Install Agents](../images/M0-T1-S3.png)
-
 
 ### Task 2: Get the status of the Defender coverage on the subscription and the workspace
 
