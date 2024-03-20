@@ -14,7 +14,7 @@ Defender for Cloud uses the graph to perform an attack path analysis (Attack Pat
 
 ![Cloud Security Graph](../images/mdfc-securitygraph1.png)
 
-### Task 1: Identify likely points of entry
+### Task 1: Identify likely points of entry (Read-Only)
 
 1. In Azure Portal, search for **Microsoft Defender for Cloud (1)** and then click on it from the search results **(2)**.
 
