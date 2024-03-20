@@ -31,7 +31,7 @@
 
     - This will bring you into the environment settings. Then select the available subscription. 
 
-   	    ![Microsoft Defender for Cloud: Coverage](../images/M1-T1-S6.1.png)
+    ![Microsoft Defender for Cloud: Coverage](../images/M1-T1-S6.1.png)
 
 7. On the **Defender plans** page, note that your subscription is fully covered – which means that your subscription is covered by Microsoft Defender for Cloud. 	
 

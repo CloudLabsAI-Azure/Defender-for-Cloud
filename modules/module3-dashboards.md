@@ -34,7 +34,7 @@ Other than the overall dashboard we discussed in Module 1, Microsoft Defender fo
 
     ![Ransomware Recommendations](../images/M3-T1-S6.png)
 
-   **Note:** You might face some **microsoft api** issues whiles opening the recommendations for AKS, this is normal please start performing the next task.
+   **Note:** While accessing the AKS suggestions, you may get some Microsoft API difficulties. This is okay; please proceed to the next step.
 
 9. Close the workbook by clicking the **X** at the top right corner of the screen.
 
