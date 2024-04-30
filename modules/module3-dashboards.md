@@ -68,7 +68,7 @@ In addition to the workbooks available in the Azure Portal, you can also deploy 
 
    ![Community Workbook](../images/M3-T3-S3.png)
 
-4. Choose the **subscription (1)** and select **asclab-WAF (2)** for **Resource Group** from the dropdown, leaving other settings unchanged. Press the **Review + Create (3)** button at the bottom left corner. On the subsequent screen, press **Create**.
+4. Choose the **subscription (1)** and select **ODL-DFC-<inject key="DeploymentID" enableCopy="false" />-asclab-WAF (2)** for **Resource Group** from the dropdown, leaving other settings unchanged. Press the **Review + Create (3)** button at the bottom left corner. On the subsequent screen, press **Create**.
 
    ![Community Workbook](../images/mod-4-Task3-1.png)
 
@@ -93,4 +93,4 @@ In addition to the workbooks available in the Azure Portal, you can also deploy 
   > - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
   > - If you need any assistance, please contact us at labs-support@spektrasystems.com.
 
-## You have successfully completed the lab. Click on Next >>.
+## You have successfully completed the Module D. Click on Next >>.

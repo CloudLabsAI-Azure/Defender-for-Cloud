@@ -50,4 +50,4 @@ The rule assigns an owner and due date to ensure the recommendations are handled
   > - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
   > - If you need any assistance, please contact us at labs-support@spektrasystems.com.
 
-## You have successfully completed the lab. Click on Next >>.
+## You have successfully completed the Module E. Click on Next >>.
