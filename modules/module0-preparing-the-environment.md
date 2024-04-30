@@ -49,7 +49,7 @@
 
    ![Auto-provisioning](../images/M0-T3-S3.png)
 
-5. On the workspace configuration section, in the **Custom workspace** option, verify your workspace **asclab-xxxxx (1)** is present. Click on **Apply (2)** and **Continue**.
+5. On the workspace configuration section, in the **Custom workspace** option, verify your workspace **asclab-<inject key="DeploymentID" enableCopy="false" /> (1)** is present. Click on **Apply (2)** and **Continue**.
 
    ![Enable Microsoft Defender for Cloud on the workspace level](../images/defender1.3.png)
 
@@ -57,4 +57,4 @@
 
    ![Enable Microsoft Defender for Cloud on the workspace level](../images/M0-T3-S5.1.png)
 
-## You have successfully completed the lab. Click on Next >>.
+## You have successfully completed the Module A. Click on Next >>.

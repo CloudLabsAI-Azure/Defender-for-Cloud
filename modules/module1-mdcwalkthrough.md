@@ -265,4 +265,4 @@ Refer to the following to learn more about Defender for cloud pricing:
 
     > **Note**: If you don't see the Insights that means it is not loaded yet to the control list and it could take up to 24 hours for all the recommendations to show up. It is possible that during lab time, this may not show up – which is the case sometimes. You can note down this step number then continue to the next exercise and verify this later.
 
-## You have successfully completed the lab. Click on Next >>.
+## You have successfully completed the Module B. Click on Next >>.
