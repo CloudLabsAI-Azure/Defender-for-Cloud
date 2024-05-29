@@ -119,15 +119,17 @@ Previously, we briefly explored the Secure Score tile on the overview page. Now 
 
     ![Overall Secure Score](../images/M1-T2-S3.png)
 
-2. On the top menu, click on the **Download CSV report** button – this allows you to get a snapshot of your resources, their health status, and the associated recommendations. You can use it for pivoting and reporting.
-
+2. On the top menu,select the **classic view** , then click on the **Download CSV report** button – this allows you to get a snapshot of your resources, their health status, and the associated recommendations. You can use it for pivoting and reporting.
+     
+     ![Overall Secure Score](../images/classic_view.png)
+   
      ![Overall Secure Score](../images/M1-T3-S3.png)
 
-3. Under **Recommendation**, Click on **Manage access and permissions** and select **Storage account public access should be disallowed** from the drop down list.
+4. Under **Recommendation**, Click on **Manage access and permissions** and select **Storage account public access should be disallowed** from the drop down list.
 
      ![](../images/M1-T3-S6.1.png)
 
-4. On the top section, notice the following:
+5. On the top section, notice the following:
 
    - Title of the recommendation: **Storage account public access should be disallowed**
    - Top menu controls: **Exempt**, **Deny**, **View policy definition** and **Open query**
@@ -137,9 +139,9 @@ Previously, we briefly explored the Secure Score tile on the overview page. Now 
 
    ![Recommendation top menu](../images/stacc-public-access.png)
 
-5. The next important part is the **Remediation Steps** which contains the remediation logic where you can remediate the selected resource/s.
+6. The next important part is the **Remediation Steps** which contains the remediation logic where you can remediate the selected resource/s.
 
-6. Under **Affected resources**, **select a resource** (the single **storage account** on the Unhealthy resources) and click on **Fix**. This will automatically apply the remediation on the selected resource.
+7. Under **Affected resources**, **select a resource** (the single **storage account** on the Unhealthy resources) and click on **Fix**. This will automatically apply the remediation on the selected resource.
 
      ![](../images/affectedresources.png)
   
