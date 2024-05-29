@@ -40,7 +40,7 @@ Defender for Cloud uses the graph to perform an attack path analysis (Attack Pat
 
 7. Select the **VM (1)** in the attack path and click on **Recommendations (2)**. You will see the vulnerabilities and any security recommendations that are relevant to this machine. 
 
-   ![Attack Paths VM detail](../images/attack3.png?raw=true)
+   ![Attack Paths VM detail](../images/attack3_1.png?raw=true)
 
 8. Select an **Unhealthy** recommendation; you will see the remediation steps, and click on the **Take action** button at the bottom left of the screen. You will see the screen where you can implement these remediations.
 
@@ -68,11 +68,11 @@ Defender for Cloud uses the graph to perform an attack path analysis (Attack Pat
 
 1. Click on the **plus (1)** next to Virtual Machines (group), from the drop-down of **select Condition (2)**, select **Networking (3)**, and select **Exposed to the Internet (4)**.
 
-   ![Cloud Security Explorer Custom Scenario](../images/attack5.png?raw=true)
+   ![Cloud Security Explorer Custom Scenario](../images/attack5_1.png?raw=true)
 
 1. From the drop-down of **Click on + button (1)** to enable new options, under **Where** select **Port (2)**, and on **Equals** enter **3389 (3)** next to exposed to the internet.
 
-    ![Cloud Security Explorer Custom Scenario](../images/attack7.png?raw=true)
+    ![Cloud Security Explorer Custom Scenario](../images/attack7_1.png?raw=true)
 
 1. Then click on the **Search** button, and you will see a list of machines that can be the target of this attack path.
 
