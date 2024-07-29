@@ -12,7 +12,6 @@
 
    ![Template deployment completed](../images/dfc1.png)
 
-
 ### Task 2: Get the status of the Defender coverage on the subscription and the workspace
 
 1. Navigate back to Microsoft Defender for Cloud blade, and click on **Environment settings (1)**. Expand **Azure (2)** to show the **Subscription**, and then expand **Subscription (3)** to show the **Workspace**. Notice the Defender coverage is **11/13 plans (4)** for the subscription and **2/2 plans (4)** for the workspace, meaning that you are now fully protected using Microsoft Defender for Cloud.
@@ -26,7 +25,6 @@
 3. Ensure that plans for **Servers** and **Databases (1)** are turned **On**. To check for **SQL servers on machines**, in databases, click on **Select types (2)** and make sure **Azure SQL Databases (3)** and **SQL servers on machines (4)** are toggled **On**.
 
    ![Environment settings](../images/defender1.1.png)
-
 
 ### Task 3: Configure the data collection settings in Microsoft Defender for Cloud (Read Only)
 
@@ -50,3 +48,5 @@
 8. Click on **Save**.
 
    ![Enable Microsoft Defender for Cloud on the workspace level](../images/M0-T3-S5.1.png)
+
+ ### You have successfully completed the Module A
