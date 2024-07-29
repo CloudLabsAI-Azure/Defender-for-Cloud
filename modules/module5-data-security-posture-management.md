@@ -19,7 +19,7 @@ Defender CSPM extends existing free posture management capabilities to help secu
      - Highlighting attack paths of internet-exposed VMs that have access to sensitive data stores.
      - Allowing you to leverage Cloud Security Explorer to identify misconfigured data resources that are publicly accessible and contain sensitive data, across multi-cloud environments. 
 
-      ![](../images/def1.png)
+       ![](../images/def1.png)
 
 2. Data sensitivity context is also used in Security Alerts and you can quickly filter based on the type of Sensitivity Information. Navigate to **Security alerts** click on **Add filters**, and set it to **Sensitivity info types**.
 
@@ -30,7 +30,6 @@ Defender CSPM extends existing free posture management capabilities to help secu
 In this exercise, you will learn how to enable Defender for CSPM and leverage Defender for CSPM Capabilities
 
    >**Note:** To gain access to the capabilities provided by Defender CSPM, you'll need to <a href="https://learn.microsoft.com/en-us/azure/defender-for-cloud/enable-enhanced-security">enable the Defender Cloud Security Posture Management (CSPM) plan </a> on your subscription
-
 
 1. **Defender Cloud Security Posture Management**, will reduce the critical risks by:
 
@@ -64,4 +63,4 @@ In this exercise, you will learn how to enable Defender for CSPM and leverage De
 
       ![](../images/m1-img5.png)
 
-### You have successfully completed the Module F
+### You have successfully completed the lab.

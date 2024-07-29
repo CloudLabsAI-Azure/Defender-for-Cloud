@@ -31,7 +31,7 @@
 
     - This will bring you into the environment settings. Then select the available subscription. 
 
-    ![Microsoft Defender for Cloud: Coverage](../images/M1-T1-S6.1.png)
+      ![Microsoft Defender for Cloud: Coverage](../images/M1-T1-S6.1.png)
 
 7. On the **Defender plans** page, note that your subscription is fully covered – which means that your subscription is covered by Microsoft Defender for Cloud. 	
 
@@ -90,11 +90,9 @@
 
     ![Overview: Secure Score tile](../images/msdefender5.1.png)   
 
-
 ### Task 2: Exploring Secure Score and Recommendations 
 
 Previously, we briefly explored the Secure Score tile on the overview page. Now let’s dive into this capability and the associated recommendations. Microsoft Defender for Cloud continually assesses your resources. All findings are aggregated into a single score (Secure Score), which measures the current security posture of your subscription; the higher the score, the lower the identified risk level.
-
 
 1. In the **Microsoft Defender for Cloud Overview blade**. From the left navigation pane, under the **Cloud Security** section, click on the **Security posture** button.
 
@@ -109,9 +107,7 @@ Previously, we briefly explored the Secure Score tile on the overview page. Now 
 
    > For more information on how the score is calculated, [refer to the secure score documentation page](https://docs.microsoft.com/en-us/azure/security-center/secure-score-security-controls#how-your-secure-score-is-calculated).
 
-
 3. On the bottom part, you can see a list of subscriptions and their current score. To view the recommendations behind the score, click on **view recommendations**.
-
 
 ### Task 3: Exploring Security Controls and Recommendations (Read-Only)
 
@@ -155,7 +151,6 @@ Previously, we briefly explored the Secure Score tile on the overview page. Now 
 
     > **Info**: In the recommendation list, you can now see some recommendations flagged as in the preview. They aren’t included in the calculation of your score. They should be still remediated so that when the preview period ends, they will contribute towards your final score.
 
-
 ### Task 4: Exploring the Inventory capability
 
 Asset inventory dashboard allows you to get a single pane of glass view of all your resources covered by Microsoft Defender for Cloud. It also provides per-resource visibility to all Microsoft Defender for Cloud’s information and additional resource details including security posture and protection status. Since this dashboard is based on Azure Resource Graph (ARG), you can run queries across subscriptions at a large scale, quickly and easily.
@@ -180,7 +175,7 @@ Asset inventory dashboard allows you to get a single pane of glass view of all y
 
     ![linux-recommendations](../images/ex3.step7.png)
 
-7. Open the resource health pane by selecting the resource. Click on **asclab-linux**. Alternately. you can also right-click on any resource and select **view resource**. You may not see **view resource** directly due to different screen resolutions, then you have to click on ellipse(...) and then select **View resource (3)**.
+7. Open the resource health pane by selecting the resource. Click on **asclab-linux**.
 
     ![Remediate a resource](../images/viewres.png)
 
@@ -245,7 +240,6 @@ Refer to the following to learn more about Defender for cloud pricing:
 
     ![MDC pricing](../images/costworkbook_new.png)
    
-
 ### Task 6: Overview of CWP capabilities  (Read Only) 
 
 1. Navigate to **Workload protections** from the **Cloud Security** section of **Defender for Cloud** menu to view the **Workload Protections Dashboard**.
