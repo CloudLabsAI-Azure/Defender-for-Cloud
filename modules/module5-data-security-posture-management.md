@@ -63,3 +63,5 @@ In this exercise, you will learn how to enable Defender for CSPM and leverage De
    >**Note:** Agentless scanning for VMs provides vulnerability assessment and software inventory in 24 hours. Leave the setup and comeback after 24 hours.
 
       ![](../images/m1-img5.png)
+
+### You have successfully completed the Module F

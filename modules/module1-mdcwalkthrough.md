@@ -261,3 +261,5 @@ Refer to the following to learn more about Defender for cloud pricing:
  	- **Advanced protection (3)** - Defender for Cloud includes many advanced threat protection capabilities for virtual machines, SQL databases, containers, web applications, your network, and more. In this advanced protection section, you can see the status of the resources in your selected subscriptions for each of these protections. Select any of them to go directly to the configuration area for that protection type.
 
 	- **Insights (4)** - This rolling pane of news, suggested reading and high-priority alerts give Defender for Cloud insights into pressing security matters that are relevant to you and your subscription. Whether it's a list of high-severity CVEs discovered on your VMs by a vulnerability analysis tool, or a new blog post by a member of the Defender for Cloud team, you'll find it here in the Insights panel.
+
+### You have successfully completed the Module B

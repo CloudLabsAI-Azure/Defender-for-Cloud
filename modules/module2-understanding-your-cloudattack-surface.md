@@ -80,3 +80,4 @@ Defender for Cloud uses the graph to perform an attack path analysis (Attack Pat
 
 **Note:** All the machines shown in the image won't be available.
 
+### You have successfully completed the Module C

@@ -27,7 +27,6 @@
 
    ![Environment settings](../images/defender1.1.png)
 
-
 ### Task 3: Configure the data collection settings in Microsoft Defender for Cloud (Read Only)
 
 1. Go back to the **Environment settings** in the sidebar and drill down into your **Subscription (1)**.
@@ -50,3 +49,5 @@
 8. Click on **Save**.
 
    ![Enable Microsoft Defender for Cloud on the workspace level](../images/M0-T3-S5.1.png)
+
+ ### You have successfully completed the Module A
