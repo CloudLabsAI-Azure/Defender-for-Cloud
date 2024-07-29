@@ -194,30 +194,18 @@ Asset inventory dashboard allows you to get a single pane of glass view of all y
 10. From the filter menu, select the **Resource Group** filter and **select all** under the Value. Again from the filter menu, select **Recommendations**, uncheck the **select all** option under the Value, and then select the **Auditing on SQL Server should be enabled** and click on **Ok**. You can also use the search area within the filter to better find items across the list. When you are done exploring remember to clear your filter.
 
     > **Note**: If you don't see **Auditing on SQL Server should be enabled** in search results that means it is not loaded yet to recommendations and it could take up to 24 hours for all the recommendations to show up. It is possible that during lab time, this may not show up – which is the case sometimes. If you don't see the data in **Recommendations**, you can note down this step number then continue to the next exercise and verify this later.
-
-11. Tags are a very common asset management feature within Azure. With the help of this feature, resources can be tagged using a Tag name and value. These assigned tags can organize your assets and categorize them with the help of filters. Let us now assign the following Tags:
-
-	* Filter the **Resource type** column to include only **App Services or web services**: Select the **Resource type** filter and select **Web apps** under the Value and Click on **OK**
-	* **Select** the checkboxes of the two app services named *asclab-fa-xx* and *asclab-app-xx*. (Here **xx** is the unique id of the resource).
-	* From the top menu, click **Assign tags**
-	* Assign `Environment` as the name and  `Production` as the value.
-	* Click **Save**.
-
-	> **Note**: If you don't see App Services in the Resource type filter that means it is not loaded yet to recommendations, Note down this step number and verify this later.
-
-	![Inventory: Assign tags](../images/defassigntag.gif?raw=true)
    
-12. From the filter pane, remove the **Resource type** filter then go to **Add filter** and notice the **Security findings** filter – it allows you to find all resources that are prone to a specific vulnerability. You can also search for CVE, KB ID, name, and missing update.
+11. From the filter pane, remove the **Resource type** filter then go to **Add filter** and notice the **Security findings** filter – it allows you to find all resources that are prone to a specific vulnerability. You can also search for CVE, KB ID, name, and missing update.
 
-13. From the filter pane, remove the **Security findings** filter you added in the previous step then from the top menu, click on **Open query**.
+12. From the filter pane, remove the **Security findings** filter you added in the previous step then from the top menu, click on **Open query**.
 
     ![Inventory: Assign tags](../images/inventory-open-query-new.1.png)
 
-16. On the **Azure Resource Graph Explorer** blade, click on **Run Query**. You should now have the same list of resources and columns as in the previous step. This query is editable for your needs and here it gets very powerful.
+13. On the **Azure Resource Graph Explorer** blade, click on **Run Query**. You should now have the same list of resources and columns as in the previous step. This query is editable for your needs and here it gets very powerful.
  
     ![Inventory: Assign tags](../images/run-query.1.png)
 
-17. Save the query for later use by clicking on **Save as** from the top menu. You can use it to create periodic reports. Name the report as **asc-filtered-query** and select **Save**.
+14. Save the query for later use by clicking on **Save as** from the top menu. You can use it to create periodic reports. Name the report as **asc-filtered-query** and select **Save**.
 
     ![Inventory: Assign tags](../images/M2-EX3-17.png)
 
