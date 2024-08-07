@@ -1,10 +1,8 @@
-# Module C - Understanding your Cloud Attack Surface
-<br>
-As you saw in Module 1, Defender for Cloud CSPM will help you identify weaknesses against best practices based on the workload running in your Azure tenant or subscription. These deviations are presented as recommendations, and we performed a walkthrough of some of them. 
+# Lab 03:  Understanding your Cloud Attack Surface
 
-<br>
+As you saw in Lab 2, Defender for Cloud CSPM will help you identify weaknesses against best practices based on the workload running in your Azure tenant or subscription. These deviations are presented as recommendations, and we performed a walkthrough of some of them. 
 
-In this module, we will learn how you can further extend this capability by generating your own queries to proactively hunt for points of entry to reduce the attack surface and decrease the likelihood of compromise.
+In this lab, we will learn how you can further extend this capability by generating your own queries to proactively hunt for points of entry to reduce the attack surface and decrease the likelihood of compromise.
 
 ## Contextualize cloud posture management
 
@@ -13,6 +11,13 @@ Defender for Cloud contains a graph-based context engine ***cloud security graph
 Defender for Cloud uses the graph to perform an attack path analysis (Attack Paths). You can also use the graph to find the issues with the highest risk that exist within your environment (Cloud Security Explorer).
 
 ![Cloud Security Graph](../images/mdfc-securitygraph1.png)
+
+## Lab objectives
+
+In this lab, you will complete the following tasks:
+
+- Task 1: Identify likely points of entry (Read-Only)
+- Task 2: Building and exploring your own custom risk scenarios
 
 ### Task 1: Identify likely points of entry (Read-Only)
 
@@ -80,4 +85,8 @@ Defender for Cloud uses the graph to perform an attack path analysis (Attack Pat
 
 **Note:** All the machines shown in the image won't be available.
 
-### You have successfully completed the Module C
+## Summary
+
+In this lab, you have identified likely points of entry, built and explored your own custom risk scenarios.
+
+### You have successfully completed the lab
