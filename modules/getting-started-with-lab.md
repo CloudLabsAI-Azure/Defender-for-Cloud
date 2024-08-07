@@ -29,8 +29,8 @@ This lab offers a hands-on experience in enhancing cloud security with Microsoft
 ## Explanation of Components
 
 - **Microsoft Defender for Cloud**: Provides unified security management and threat protection across Azure environments.
-- **Storage Accounts**: Offer scalable cloud storage for data, including files and blobs.
-- **Virtual Machines**: Provides on-demand, scalable computing resources in the cloud, allowing for flexible application deployment and management.
+- **Storage Account**: Offer scalable cloud storage for data, including files and blobs.
+- **Virtual Machine**: Provides on-demand, scalable computing resources in the cloud, allowing for flexible application deployment and management.
 
 # Getting Started with Lab
 
