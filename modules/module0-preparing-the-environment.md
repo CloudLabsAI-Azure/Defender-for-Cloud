@@ -1,4 +1,14 @@
-# Module A – Preparing the Environment
+# Lab 01: Preparing the Environment
+
+## Lab Scenario
+
+
+## Lab objectives
+In this lab, you will complete the following tasks:
+
+- Task 1: Enabling Microsoft Defender for Cloud (Read-Only)
+- Task 2: Get the status of the Defender coverage on the subscription and the workspace
+- Task 3: Configure the data collection settings in Microsoft Defender for Cloud (Read Only)
 
 ### Task 1: Enabling Microsoft Defender for Cloud (Read-Only)
 
@@ -49,4 +59,8 @@
 
    ![Enable Microsoft Defender for Cloud on the workspace level](../images/M0-T3-S5.1.png)
 
- ### You have successfully completed the Module A
+ ## Summary
+
+In this lab, you have enabled Microsoft Defender for Cloud, received the status of the Defender coverage on the subscription and the workspace and configured the data collection settings in Microsoft Defender for Cloud.
+ 
+ ### You have successfully completed the lab
