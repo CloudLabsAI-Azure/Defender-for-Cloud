@@ -8,7 +8,12 @@ The rule assigns an owner and due date to ensure the recommendations are handled
 
 - **Workload owners**: Focus on the specific recommendations that require their attention. They'll also be able to delegate recommendations to others or set expectations for when the recommendations will be implemented.
 
+## Lab objectives
 
+In this lab, you will complete the following tasks:
+
+- Task 1: Assign Governance Rule
+- 
 
 ### Task 1: Assign Governance Rule
 
@@ -39,7 +44,7 @@ The rule assigns an owner and due date to ensure the recommendations are handled
 
    **Note:** You might have different pop-up wherein the existing recommendations count may vary.
 
-8. Click on **Governance report** to view the status of tasks **Complete, Ontime and Unassign**.
+7. Click on **Governance report** to view the status of tasks **Complete, Ontime and Unassign**.
 
     ![](../images/m1-img23.png)
     
@@ -52,4 +57,8 @@ The rule assigns an owner and due date to ensure the recommendations are handled
    > - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
    > - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
 
-### You have successfully completed the Module E
+## Summary
+
+In this lab, you have assigned Governance Rule.
+
+### You have successfully completed the lab.
