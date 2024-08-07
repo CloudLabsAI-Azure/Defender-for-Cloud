@@ -13,7 +13,6 @@ The rule assigns an owner and due date to ensure the recommendations are handled
 In this lab, you will complete the following tasks:
 
 - Task 1: Assign Governance Rule
-- 
 
 ### Task 1: Assign Governance Rule
 
