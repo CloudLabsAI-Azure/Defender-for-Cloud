@@ -2,6 +2,7 @@
 
 ## Lab Scenario
 
+You are a cloud security administrator tasked with securing your organization's Azure environment. This lab provides a hands-on experience in enhancing cloud security using Microsoft Defender for Cloud. You will enable Microsoft Defender for Cloud, assess the status of Defender coverage across their subscription and workspace, and configure data collection settings to optimize security monitoring. This lab ensures that you can effectively manage and secure your cloud environments.
 
 ## Lab objectives
 In this lab, you will complete the following tasks:
