@@ -1,6 +1,13 @@
-# Module F - Data Security Posture Management (Read Only)
+# Lab 06: Data Security Posture Management (Read Only)
 
 Defender CSPM extends existing free posture management capabilities to help security teams gain full visibility across their multi-cloud and hybrid environments, get integrated, contextual risk insights across their infrastructure, quickly identify their most critical risk with attack path analysis, and proactively remediate vulnerabilities and misconfigurations. Today, new integrated data-aware security posture capabilities empower teams to prevent data breaches with full visibility into the multi-cloud data estate and pressing risks to sensitive data.
+
+## Lab objectives
+
+In this lab, you will complete the following tasks:
+
+- Task 1: Understanding Microsoft Data Security Posture Management
+- Task 2: Enabling Defender CSPM plan
 
 ### Task 1: Understanding Microsoft Data Security Posture Management
 
@@ -62,5 +69,9 @@ In this exercise, you will learn how to enable Defender for CSPM and leverage De
    >**Note:** Agentless scanning for VMs provides vulnerability assessment and software inventory in 24 hours. Leave the setup and comeback after 24 hours.
 
       ![](../images/m1-img5.png)
+
+## Summary
+
+In this lab, you have understood Microsoft Data Security Posture Management and enabled Defender CSPM plan.
 
 ### You have successfully completed the lab.
