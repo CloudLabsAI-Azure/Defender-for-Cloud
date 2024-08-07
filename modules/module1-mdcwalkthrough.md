@@ -2,6 +2,8 @@
 
 ## Lab Scenario
 
+In this lab, you will learn to navigate the Microsoft Defender for Cloud Dashboard, understand its pricing model, explore the Secure Score and its associated recommendations, delve into Security Controls, and examine the Inventory capability. Imagine you are a security analyst at a mid-sized company migrating its infrastructure to Azure. Your task is to ensure the security posture of the cloud environment using Microsoft Defender for Cloud. You'll monitor security metrics, understand costs, apply recommendations to improve your Secure Score, explore security controls to safeguard resources, and manage assets using the Inventory capability.
+
 ## Lab objectives
 
 In this lab, you will complete the following tasks:
