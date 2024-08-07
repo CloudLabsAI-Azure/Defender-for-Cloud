@@ -8,14 +8,14 @@ This lab provides hands-on experience in enhancing cloud security using Microsof
 
 ## Objective
 
-By the end of this lab, you will be able to:
+Enable Microsoft Defender for Cloud, configure settings, and explore key features to enhance security and monitoring. Use the Ransomware Dashboard and governance rules to assess risks and ensure compliance. By the end of this lab, you will be able to:
 
-- **Preparing the Environment**:
-- **Exploring Microsoft Defender for Cloud**:
-- **Understanding your Cloud Attack Surface**:
-- **Dashboards**:
-- **Governance Rule**:
-- **Data Security Posture Management (Read Only)**:
+- **Preparing the Environment**: By enabling Microsoft Defender for Cloud, assessing coverage status across subscriptions and workspaces, and configuring data collection settings, you will enhance your security monitoring and ensure comprehensive protection for your cloud environment.
+- **Exploring Microsoft Defender for Cloud**: Gain a comprehensive understanding of Microsoft Defender for Cloud by exploring its Dashboard, Secure Score, and Security Controls. You'll review the Inventory capability and understand the pricing model, equipping you with the knowledge to enhance cloud security and manage costs effectively.
+- **Understanding your Cloud Attack Surface**: Identify likely points of entry for potential security threats and then build and explore custom risk scenarios tailored to your environment. This hands-on approach will enhance your ability to proactively address vulnerabilities and strengthen your security posture.
+- **Dashboards**: Utilize the Ransomware Dashboard to gain insights into potential threats, assess the coverage of your attack surface to ensure comprehensive protection, and deploy community workbooks to enhance monitoring and response capabilities.
+- **Governance Rule**: Assign a governance rule to enforce organizational policies and ensure compliance across your cloud environment.
+- **Data Security Posture Management (Read Only)**: Gain an understanding of Microsoft Data Security Posture Management, focusing on its role in safeguarding data across your cloud environment
 
 ## Pre-requisites
 
@@ -24,11 +24,7 @@ By the end of this lab, you will be able to:
 
 ## Architecture
 
-
-
-## Architecture Diagram
-
-  ![](./Images/arch10.jpg)
+This lab offers a hands-on experience in enhancing cloud security with Microsoft Defender for Cloud. You'll enable Defender, assess coverage across subscriptions and workspaces, and configure data collection for optimal security monitoring. By navigating the Defender Dashboard, you'll explore pricing, the Secure Score, Security Controls, and Inventory capabilities. Your task is to improve the cloud environment's security posture, monitor metrics, understand costs, and apply recommendations to boost your Secure Score. Additionally, you'll create custom queries to hunt for entry points, use specialized reports, and implement governance rules for accountability. Microsoft Defender for Cloud continuously assesses workloads, providing recommendations to harden assets, gain visibility across multi-cloud and hybrid environments, identify risks, and remediate vulnerabilities.
 
 ## Explanation of Components
 
