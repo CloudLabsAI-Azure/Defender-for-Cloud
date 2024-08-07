@@ -2,7 +2,7 @@
 
 ## Lab Overview
 
-Other than the overall dashboard we discussed in Module 1, Microsoft Defender for Cloud provides several purpose-built reports, which are presented as workbooks.
+Other than the overall dashboard we discussed in Lab2, Microsoft Defender for Cloud provides several purpose-built reports, which are presented as workbooks.
 
 ## Lab objectives
 
