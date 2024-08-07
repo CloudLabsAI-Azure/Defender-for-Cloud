@@ -1,3 +1,30 @@
+# Microsoft Defender for Cloud Workshop
+
+### Overall Estimated Duration: 8 Hours
+
+## Overview
+
+
+
+## Objective
+
+By the end of this lab, you will be able to:
+
+
+
+## Pre-requisites
+
+
+## Architecture
+
+
+
+## Architecture Diagram
+
+  ![](./Images/arch10.jpg)
+
+## Explanation of Components
+
 # Getting Started with Lab
 
 1. Once the environment is provisioned, a virtual machine (LabVM) and lab guide will get loaded in your browser. Use this virtual machine throughout the workshop to perform the lab. You can see the number on the lab guide bottom area to switch to different exercises of the lab guide.
