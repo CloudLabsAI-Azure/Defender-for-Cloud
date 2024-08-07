@@ -29,11 +29,8 @@ This lab offers a hands-on experience in enhancing cloud security with Microsoft
 ## Explanation of Components
 
 - **Microsoft Defender for Cloud**: Provides comprehensive security management and threat protection for cloud resources, enhancing visibility and control across your environment.
-
 - **Storage Account**: A scalable solution in Azure for storing and managing data, including blobs, files, queues, and tables.
-
 - **Log Analytics Workspace**: Centralizes log data collection and analysis from various Azure resources and on-premises systems, enabling advanced monitoring and insights.
-
 - **Virtual Machine**: A scalable computing resource in Azure that runs virtualized operating systems, providing flexible and on-demand compute power.
 
 # Getting Started with Lab
