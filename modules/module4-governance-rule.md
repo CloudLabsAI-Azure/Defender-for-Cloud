@@ -1,4 +1,4 @@
-# Module E - Governance Rule
+# Lab 05: Governance Rule
 
 Governance rules can identify resources that require remediation according to specific recommendations or severities. Microsoft Defender for Cloud continuously assesses your hybrid and multi-cloud workloads and provides you with recommendations to harden your assets and enhance your security posture.
 Central security teams often experience challenges when driving the personnel within their organizations to implement recommendations. 
@@ -7,6 +7,8 @@ The rule assigns an owner and due date to ensure the recommendations are handled
 - **Security teams**: Set accountability for recommendations, track their progress, and drive resource owners to action with notification capabilities.
 
 - **Workload owners**: Focus on the specific recommendations that require their attention. They'll also be able to delegate recommendations to others or set expectations for when the recommendations will be implemented.
+
+
 
 ### Task 1: Assign Governance Rule
 
