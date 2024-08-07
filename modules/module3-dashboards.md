@@ -1,8 +1,16 @@
-# Module D - Dashboards
+# Lab 04: Dashboards
 
-## Overview
+## Lab Overview
 
 Other than the overall dashboard we discussed in Module 1, Microsoft Defender for Cloud provides several purpose-built reports, which are presented as workbooks.
+
+## Lab objectives
+
+In this lab, you will complete the following tasks:
+
+- Task 1: Ransomware Dashboard
+- Task 2: Identifying the coverage of your attack surface
+- Task 3: Deploying community workbooks
 
 ### Task 1: Ransomware Dashboard
 
@@ -37,7 +45,6 @@ Other than the overall dashboard we discussed in Module 1, Microsoft Defender fo
    **Note:** While accessing the AKS suggestions, you may get some Microsoft API difficulties. This is okay; please proceed to the next step.
 
 9. Close the workbook by clicking the **X** at the top right corner of the screen.
-
 
 ### Task 2: Identifying the coverage of your attack surface
 
@@ -98,5 +105,9 @@ In addition to the workbooks available in the Azure Portal, you can also deploy 
    > - Hit the Validate button for the corresponding task. You can proceed to the next task if you receive a success message.
    > - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
    > - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
+
+## Summary
+
+In this lab, you have worked on Ransomware Dashboard , identified the coverage of your attack surface and deployed community workbooks.
    
-### You have successfully completed the Module D
+### You have successfully completed the lab
