@@ -1,5 +1,7 @@
 # Lab 04: Dashboards
 
+### Estimated Duration: 20 minutes
+
 ## Lab Overview
 
 Other than the overall dashboard we discussed in Lab2, Microsoft Defender for Cloud provides several purpose-built reports, which are presented as workbooks.
