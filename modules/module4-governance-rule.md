@@ -1,5 +1,7 @@
 # Lab 05: Governance Rule
 
+### Estimated Duration: 10 minutes
+
 Governance rules can identify resources that require remediation according to specific recommendations or severities. Microsoft Defender for Cloud continuously assesses your hybrid and multi-cloud workloads and provides you with recommendations to harden your assets and enhance your security posture.
 Central security teams often experience challenges when driving the personnel within their organizations to implement recommendations. 
 The rule assigns an owner and due date to ensure the recommendations are handled. Many governance rules can apply to the same recommendations, so the rule with a lower priority value is the one that assigns the owner and due date. Governance rules will help:
