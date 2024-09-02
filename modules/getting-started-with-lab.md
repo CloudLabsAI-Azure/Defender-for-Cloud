@@ -4,6 +4,12 @@
 
 ## Overview
 
+[Microsoft Defender for Cloud (MDC)](https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-cloud-introduction) provides: 
+
+* A development security operations (DevSecOps) solution that unifies security management at the code level across multi-cloud and multiple-pipeline environments
+* A cloud security posture management (CSPM) solution that surfaces actions that you can take to prevent breaches
+* A cloud workload protection platform (CWPP) with specific protections for servers, containers, storage, databases, and other workloads
+
 This lab provides hands-on experience in enhancing cloud security using Microsoft Defender for Cloud. You'll enable Defender for Cloud, assess coverage, and configure data collection for optimal security monitoring. You'll navigate the dashboard, understand pricing, explore the Secure Score and recommendations, delve into Security Controls, and manage assets using the Inventory capability. Additionally, you'll generate custom queries to identify entry points, utilize reports, and implement governance rules to assign accountability and track progress. This lab helps you ensure a strong security posture for your cloud environment by continuously assessing workloads and providing actionable recommendations.
 
 ## Objective
