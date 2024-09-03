@@ -102,7 +102,7 @@ In addition to the workbooks available in the Azure Portal, you can also deploy 
 
 >**Note**: You can repeat this process to deploy other Workbooks from the community repo or any that you have created.
 
-   > **Congratulations** on completing the task! Now, it's time to validate it.
+   >**Congratulations** on completing the task! Now, it's time to validate it.
 
    <validation step="50caa03f-b05a-4972-b997-ccbd606bb35c" />
 
