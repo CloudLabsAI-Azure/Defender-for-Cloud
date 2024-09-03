@@ -43,7 +43,7 @@ In this lab, you will complete the following tasks:
 
     ![](../images/a1.6.png)
 
-   **Note:** You might have different pop-up wherein the existing recommendations count may vary.
+   >**Note:** You might have different pop-up wherein the existing recommendations count may vary.
 
 7. Click on **Governance report** to view the status of tasks **Complete, Ontime and Unassign**.
 
@@ -51,11 +51,10 @@ In this lab, you will complete the following tasks:
     
     ![](../images/m1-img24.png)
 
-
-   > **Congratulations** on completing the task! Now, it's time to validate it.
+   >**Congratulations** on completing the task! Now, it's time to validate it.
 
    <validation step="5f242815-a4bb-4a74-a4c1-b360304165fb" />
-   
+
 ## Summary
 
 In this lab, you have assigned Governance Rule.
