@@ -54,7 +54,7 @@ In this lab, you will complete the following tasks:
 
    >**Congratulations** on completing the task! Now, it's time to validate it.
 
-   <validation step="5f242815-a4bb-4a74-a4c1-b360304165fb" />
+     <validation step="5f242815-a4bb-4a74-a4c1-b360304165fb" />
     
 ## Summary
 
