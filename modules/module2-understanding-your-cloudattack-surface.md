@@ -29,9 +29,11 @@ In this lab, you will complete the following tasks:
 
 2. From the **Defender for Cloud** menu, click on the **Recommendations (1)** blade to see different Attack Paths that Defender has identified. Attack Path looks for points of entries and lateral movement not only in Azure but also in AWS and GCP. Click on the **Attack path (2)**.
 
+   Note: If you don't see any attacks available, that means it is not loaded yet for recommendations, and it could take up to 24-48 hours for all the recommendations to show up. It is possible that during lab time, this may not show up – which is the case sometimes. If you don't see the data in attack-path, you can note down this step number, then continue to the next exercise and verify this later.
+
    ![Attack Paths](../images/mdfc-attackpath.png?raw=true)
 
-3. In **Microsoft Defender for Cloud | Attack path analysis** page. Each attack path represents a scenario that you should be aware of. The title **Internet exposed VM has high severity vulnerabilities (1)** itself provides you with a quick understanding of how the risk exposure might manifest, which allows you to quickly prioritize your investigation.
+4. In **Microsoft Defender for Cloud | Attack path analysis** page. Each attack path represents a scenario that you should be aware of. The title **Internet exposed VM has high severity vulnerabilities (1)** itself provides you with a quick understanding of how the risk exposure might manifest, which allows you to quickly prioritize your investigation.
 
    ![Attack Paths example](../images/mdfc-attackpathexample1.png?raw=true)
 
