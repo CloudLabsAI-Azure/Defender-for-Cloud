@@ -25,6 +25,8 @@ Enable Microsoft Defender for Cloud, configure settings, and explore key feature
 
 ## Pre-requisites
 
+Participants should have:
+
 - Familiarity with cloud security concepts
 - Basic knowledge of Governance and Compliance practices
 
@@ -38,24 +40,44 @@ This lab offers a hands-on experience in enhancing cloud security with Microsoft
 
 ## Explanation of Components
 
+The architecture for this lab involves the following key components:
+
 - **Microsoft Defender for Cloud**: Provides comprehensive security management and threat protection for cloud resources, enhancing visibility and control across your environment.
 - **Storage Account**: A scalable solution in Azure for storing and managing data, including blobs, files, queues, and tables.
 - **Log Analytics Workspace**: Centralizes log data collection and analysis from various Azure resources and on-premises systems, enabling advanced monitoring and insights.
 - **Virtual Machine**: A scalable computing resource in Azure that runs virtualized operating systems, providing flexible and on-demand compute power.
 
-# Getting Started with Lab
-
-1. Once the environment is provisioned, a virtual machine (LabVM) and lab guide will get loaded in your browser. Use this virtual machine throughout the workshop to perform the lab. You can see the number on the lab guide bottom area to switch to different exercises of the lab guide.
-   
-   ![](../images/img-1.png "Lab Environment")
-
-1. To get the lab environment details, you can select the **Environment Details** tab. Additionally, the credentials will also be emailed to your email address provided during registration. You can also open the Lab Guide on a separate and full window by selecting the **Split Window** from the lower right corner. Also, you can start, stop, and restart virtual machines from the **Resources** tab.
-
-   ![](../images/img-2.png "Lab Environment")
+## Getting Started with the Lab
  
-1. Verify all the Virtual Machines are running. If not, please click on the **Start** action button in the **Resources** tab.
+Welcome to your Microsoft Defender for Cloud Workshop Workshop! We've prepared a seamless environment for you to explore and learn about Azure services. Let's begin by making the most of this experience:
+ 
+## Accessing Your Lab Environment
+ 
+Once you're ready to dive in, your virtual machine and lab guide will be right at your fingertips within your web browser.
 
-   ![](../images/startresource-1.png "Lab Environment")
+![](../images/img-1.png "Lab Environment")
+
+### Virtual Machine & Lab Guide
+ 
+Your virtual machine is your workhorse throughout the workshop. The lab guide is your roadmap to success.
+ 
+## Exploring Your Lab Resources
+ 
+To get a better understanding of your lab resources and credentials, navigate to the **Environment** tab.
+ 
+![](../media/env-01.png)
+ 
+## Utilizing the Split Window Feature
+ 
+For convenience, you can open the lab guide in a separate window by selecting the **Split Window** button from the Top right corner.
+ 
+![](../media/split-01.png)
+ 
+## Managing Your Virtual Machine
+ 
+Feel free to start, stop, or restart your virtual machine as needed from the **Resources** tab. Your experience is in your hands!
+
+![](../media/resourses.png)
 
 ## Login to Azure Portal
 
@@ -76,6 +98,8 @@ This lab offers a hands-on experience in enhancing cloud security with Microsoft
 1. On **Action Required** pop-up, click on **Ask later**.
 
      ![](../images/ask-later.png "Ask Later")
+
+     >**NOTE:** Do not enable MFA, select **Ask Later**.
 
 1. If you see the pop-up **Stay Signed in?**, click **No**.
 
@@ -102,6 +126,6 @@ Learner Support Contacts:
 - Email Support: labs-support@spektrasystems.com
 - Live Chat Support: https://cloudlabs.ai/labs-support
 
-  Now, click on Next from the lower right corner to move on to the next page.
+Now, click on Next from the lower right corner to move on to the next page.
 
-## Happy Learning!!
+### Happy Learning!!
