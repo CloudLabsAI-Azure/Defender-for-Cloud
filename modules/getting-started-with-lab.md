@@ -65,19 +65,19 @@ Your virtual machine is your workhorse throughout the workshop. The lab guide is
  
 To get a better understanding of your lab resources and credentials, navigate to the **Environment** tab.
  
-![](../media/env-01.png)
+![](../images/env-01.png)
  
 ## Utilizing the Split Window Feature
  
 For convenience, you can open the lab guide in a separate window by selecting the **Split Window** button from the Top right corner.
  
-![](../media/split-01.png)
+![](../images/split-01.png)
  
 ## Managing Your Virtual Machine
  
 Feel free to start, stop, or restart your virtual machine as needed from the **Resources** tab. Your experience is in your hands!
 
-![](../media/resourses.png)
+![](../images/resourses.png)
 
 ## Login to Azure Portal
 
@@ -127,5 +127,7 @@ Learner Support Contacts:
 - Live Chat Support: https://cloudlabs.ai/labs-support
 
 Now, click on Next from the lower right corner to move on to the next page.
+
+![](../images/lab-next.png)
 
 ### Happy Learning!!
