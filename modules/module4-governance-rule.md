@@ -51,9 +51,12 @@ In this lab, you will complete the following tasks:
     
     ![](../images/m1-img24.png)
 
-   >**Congratulations** on completing the task! Now, it's time to validate it.
+<validation step="5f242815-a4bb-4a74-a4c1-b360304165fb" />
 
-   <validation step="5f242815-a4bb-4a74-a4c1-b360304165fb" />
+> **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
+> - If you receive a success message, you can proceed to the next task.
+> - If not, carefully read the error message and retry the step, following the instructions in the lab guide. 
+> - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
 
 ## Summary
 

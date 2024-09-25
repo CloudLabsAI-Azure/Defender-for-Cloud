@@ -199,13 +199,13 @@ Asset inventory dashboard allows you to get a single pane of glass view of all y
 
     > **Note**: It could take up to 24 hours for all the recommendations to show up. And it is possible that during lab time, this may not show up – which is the case sometimes. If you don't see the data in **recommendations**. You can continue to the next exercise and verify this later.
 
-9. Navigate back to the Inventory page and clear the search keyword **Linux**. Then from the filter menu, select the **Resource Groups (1)** filter and from the drop-down menu of **value** select **asclab-aks (2)** (Unselect remaining), and click on **Ok (3)**. Using this filter, you can see all resources related to the predefined Kubernetes resources which are monitored with active recommendations.
+9. Navigate back to the Inventory page and clear the search keyword **Linux**. Then from the filter menu, select the **Resource Groups** filter and from the drop-down menu of **value** select **asclab-aks (1)** (Unselect remaining), and click on **Apply (2)**. Using this filter, you can see all resources related to the predefined Kubernetes resources which are monitored with active recommendations.
 
      ![Remediate a resource](../images/2.png)
 
     > **Note:** The list can be filtered and sorted.
 
-10. From the filter menu, select the **Resource Group** filter and **select all** under the Value. Again from the filter menu, select **Recommendations**, uncheck the **select all** option under the Value, and then select the **Auditing on SQL Server should be enabled** and click on **Ok**. You can also use the search area within the filter to better find items across the list. When you are done exploring remember to clear your filter.
+10. From the filter menu, select the **Resource Group** filter and **select all** under the Value. Again from the **Add filter menu (1)**, select **Recommendations**, uncheck the **select all** option under the Value, search for **Auditing on SQL Server should be enabled (2)** and then select the **Auditing on SQL Server should be enabled (3)** and click on **Apply (4)**. You can also use the search area within the filter to better find items across the list. When you are done exploring remember to clear your filter.
 
      ![Remediate a resource](../images/1.png)
    
@@ -221,7 +221,7 @@ Asset inventory dashboard allows you to get a single pane of glass view of all y
  
     ![Inventory: Assign tags](../images/run-query.1.png)
 
-14. Save the query for later use by clicking on **Save as** from the top menu. You can use it to create periodic reports. Name the report as **asc-filtered-query** and select **Save**.
+14. Save the query for later use by clicking on **Save as (1)** from the top menu. You can use it to create periodic reports. Name the report as **asc-filtered-query (2)** and select **Save (3)**.
 
     ![Inventory: Assign tags](../images/M2-EX3-17.png)
 
