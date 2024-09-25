@@ -71,7 +71,7 @@ In this lab, you will complete the following tasks:
 
 In addition to the workbooks available in the Azure Portal, you can also deploy several from the [MDC github](https://github.com/Azure/Microsoft-Defender-for-Cloud/tree/main/Workbooks)
 
-1. From the **Workbooks (1)** blade, select the **Microsoft Defender for Cloud (2)** under Community Git Repo.
+1. From the **Workbooks (1)** blade, select the **Community Git repo > Microsoft Defender for Cloud (2)** under Community Git Repo.
 
    ![Community Workbook](../images/M3-T3-S1.png)
 
@@ -102,9 +102,12 @@ In addition to the workbooks available in the Azure Portal, you can also deploy 
 
 >**Note**: You can repeat this process to deploy other Workbooks from the community repo or any that you have created.
 
-   >**Congratulations** on completing the task! Now, it's time to validate it.
+<validation step="50caa03f-b05a-4972-b997-ccbd606bb35c" />
 
-   <validation step="50caa03f-b05a-4972-b997-ccbd606bb35c" />
+> **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
+> - If you receive a success message, you can proceed to the next task.
+> - If not, carefully read the error message and retry the step, following the instructions in the lab guide. 
+> - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
 
 ## Summary
 
