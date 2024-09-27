@@ -99,7 +99,7 @@ Feel free to start, stop, or restart your virtual machine as needed from the **R
 
      ![](../images/ask-later.png "Ask Later")
 
-     >**NOTE:** Do not enable MFA, select **Ask Later**.
+     >**NOTE: Do not enable MFA, select Ask Later**.
 
 1. If you see the pop-up **Stay Signed in?**, click **No**.
 
