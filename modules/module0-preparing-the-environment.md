@@ -21,7 +21,7 @@ In this lab, you will complete the following tasks:
 
 2. Click on the **Getting started (1)** page from the left pane, from the **Upgrade (2)** tab, select the **Workspace name (3)**. Click on **Upgrade (4)**.
 
-    >**Note:** You may need to wait for a few minutes for the upgrade to complete.
+   >**Note:** You may need to wait for a few minutes for the upgrade to complete.
 
    ![Template deployment completed](../images/dfc1.png)
 
@@ -41,13 +41,13 @@ In this lab, you will complete the following tasks:
 
 ### Task 3: Configure the data collection settings in Microsoft Defender for Cloud (Read Only)
 
-1. Go back to the **Environment settings** in the sidebar and drill down into your **Subscription (1)**.
+1. Go back to the **Environment settings** in the sidebar and drill down into your **Subscription**.
 
-   ![Environment settings](../images/M0-T2-S2.png)
+   ![Environment settings](../images/dfc3.png)
 
 2. Navigate to **Settings and monitoring (1)**.
 
-    ![Auto-provisioning](../images/M0-T3-S2.2.png)
+   ![Auto-provisioning](../images/M0-T3-S2.2.png)
 
 3. On the **Settings and monitoring - Extensions** page, set **Log Analytics agent (1)** to **On (2)** (if it's not already set to On). Then 
  click on **Edit configuration (3)** under the configuration column.

@@ -21,7 +21,7 @@ In this lab, you will complete the following tasks:
    ![Workbooks](../images/M3-T1-S1.1.png)
 
 2. The Ransomware Dashboard is navigated.
-                                  
+
    ![Ransomware Dashboard](../images/M3-T1-S1.png)
 
 3. Select **Recommendations** to see technique-specific recommendations.
@@ -38,13 +38,13 @@ In this lab, you will complete the following tasks:
 
 6. Click on expand grid **(1)**, next under the **Discover (2)** section, select **asclab-aks (3)**, and click the **Go to recommendation (4)** link.
 
-    ![Ransomware Recommendations](../images/dfc7.png)
+   ![Ransomware Recommendations](../images/dfc7.png)
 
 7. You will be taken to the recommendation details that contain remediation steps and an option to fix.
 
-    ![Ransomware Recommendations](../images/M3-T1-S6.png)
+   ![Ransomware Recommendations](../images/M3-T1-S6.png)
 
-   **Note:** While accessing the AKS suggestions, you may get some Microsoft API difficulties. This is okay; please proceed to the next step.
+   >**Note:** While accessing the AKS suggestions, you may get some Microsoft API difficulties. This is okay; please proceed to the next step.
 
 9. Close the workbook by clicking the **X** at the top right corner of the screen.
 
@@ -97,7 +97,7 @@ In addition to the workbooks available in the Azure Portal, you can also deploy 
 
 7. Now you will see the workbook, choose the **Subscription Name** to see how that subscription scores against **Well Architected Practices**.
 
-    ![Community Workbook](../images/M3-T3-S7-1.png)
+   ![Community Workbook](../images/M3-T3-S7-1.png)
 
 >**Note**: You can repeat this process to deploy other Workbooks from the community repo or any that you have created.
 

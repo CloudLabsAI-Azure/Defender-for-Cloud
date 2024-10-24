@@ -20,36 +20,36 @@ In this lab, you will complete the following tasks:
 
 1. From the **Defender for Cloud** menu, click on **Environment Settings (1)** page and click on **Governance rules (2)**.
 
-    ![](../images/defender1.7.png)
+   ![](../images/defender1.7.png)
 
-3. Click on **+ Create governance rule**.
+1. Click on **+ Create governance rule**.
 
-    ![](../images/m1-img20.png)
+   ![](../images/m1-img20.png)
 
-4. Enter **Rule name** as `asclab-rule` **(1)**, select **Scope** at subscription level **(2)** and **Priority** `100` **(3)**. Click **Next (4)**.
+1. Enter **Rule name** as `asclab-rule` **(1)**, select **Scope** at subscription level **(2)** and **Priority** `100` **(3)**. Click **Next (4)**.
 
-    ![](../images/m1-img21.png)
+   ![](../images/m1-img21.png)
     
-5. Under **conditions** provide the below details and click **Create (5)**
+1. Under **conditions** provide the below details and click **Create (5)**
 	
    - **By severity**: `High` **(1)**
    - **Owner**: `By email address` **(2)**
    - **Email address**: <inject key="AzureAdUserEmail"></inject> **(3)**
    - **Remediation timeframe**: `90 days` **(4)**
 
-     ![](../images/m1-img22_new.png)
+    ![](../images/m1-img22_new.png)
 
-6. On the **Rule created successfully** pop-up select the check box next to **Apply rule to the 42 existing recommendations that are unassigned** and click on **OK**.
+1. On the **Rule created successfully** pop-up select the check box next to **Apply rule to the 42 existing recommendations that are unassigned** and click on **OK**.
 
-    ![](../images/a1.6.png)
+   ![](../images/a1.6.png)
 
    >**Note:** You might have different pop-up wherein the existing recommendations count may vary.
 
-7. Click on **Governance report** to view the status of tasks **Complete, Ontime and Unassign**.
+1. Click on **Governance report** to view the status of tasks **Complete, Ontime and Unassign**.
 
-    ![](../images/m1-img23.png)
+   ![](../images/m1-img23.png)
     
-    ![](../images/m1-img24.png)
+   ![](../images/m1-img24.png)
 
 > **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
  

@@ -29,7 +29,7 @@ In this lab, you will complete the following tasks:
 
 2. From the **Defender for Cloud** menu, click on the **Recommendations (1)** blade to see different Attack Paths that Defender has identified. Attack Path looks for points of entries and lateral movement not only in Azure but also in AWS and GCP. Click on the **Attack path (2)**.
 
-   **Note: If you don't see any attacks available, that means it is not loaded yet for recommendations, and it could take up to 24-48 hours for all the recommendations to show up. It is possible that during lab time, this may not show up – which is the case sometimes. If you don't see the data in attack-path, you can note down this step number, then continue to the next exercise and verify this later.**
+   >**Note: If you don't see any attacks available, that means it is not loaded yet for recommendations, and it could take up to 24-48 hours for all the recommendations to show up. It is possible that during lab time, this may not show up – which is the case sometimes. If you don't see the data in attack-path, you can note down this step number, then continue to the next exercise and verify this later.**
 
    ![Attack Paths](../images/mdfc-attackpath.png?raw=true)
 
@@ -56,10 +56,11 @@ In this lab, you will complete the following tasks:
    ![Attack Paths VM detail](../images/mdfc-attackpathvmrecommendtiondetail.png?raw=true)
 
 9. Now you have a complete picture of:
-      - What resources can cause potential risk exposure.
-      - What is a likely path that leads to exposure.
-      - What are the open recommendations for these resources.
-      - How to remediate open attack paths.
+
+   - What resources can cause potential risk exposure.
+   - What is a likely path that leads to exposure.
+   - What are the open recommendations for these resources.
+   - How to remediate open attack paths.
 
 ### Task 2: Building and exploring your own custom risk scenarios
 
@@ -81,13 +82,13 @@ In this lab, you will complete the following tasks:
 
 1. From the drop-down of **Click on + button (1)** to enable new options, under **Where** select **Port (2)**, and on **Equals** enter **3389 (3)** next to exposed to the internet.
 
-    ![Cloud Security Explorer Custom Scenario](../images/attack7_1.png?raw=true)
+   ![Cloud Security Explorer Custom Scenario](../images/3.png)
 
 1. Then click on the **Search** button, and you will see a list of machines that can be the target of this attack path.
 
-    ![Cloud Security Explorer Custom Scenario](../images/attack10.png?raw=true)
+   ![Cloud Security Explorer Custom Scenario](../images/attack10.png?raw=true)
 
-**Note:** All the machines shown in the image won't be available.
+>**Note:** All the machines shown in the image won't be available.
 
 ## Summary
 
