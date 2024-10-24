@@ -21,7 +21,7 @@ In this lab, you will complete the following tasks:
    ![Workbooks](../images/M3-T1-S1.1.png)
 
 2. The Ransomware Dashboard is navigated.
-                                                         
+                                  
    ![Ransomware Dashboard](../images/M3-T1-S1.png)
 
 3. Select **Recommendations** to see technique-specific recommendations.
@@ -99,15 +99,15 @@ In addition to the workbooks available in the Azure Portal, you can also deploy 
 
     ![Community Workbook](../images/M3-T3-S7-1.png)
 
-
 >**Note**: You can repeat this process to deploy other Workbooks from the community repo or any that you have created.
 
-<validation step="50caa03f-b05a-4972-b997-ccbd606bb35c" />
-
 > **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
-> - If you receive a success message, you can proceed to the next task.
-> - If not, carefully read the error message and retry the step, following the instructions in the lab guide. 
-> - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
+ 
+- Hit the Validate button for the corresponding task. If you receive a success message, you can proceed to the next task. 
+- If not, carefully read the error message and retry the step, following the instructions in the lab guide.
+- If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
+
+<validation step="50caa03f-b05a-4972-b997-ccbd606bb35c" />
 
 ## Summary
 

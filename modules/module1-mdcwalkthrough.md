@@ -28,7 +28,6 @@ In this lab, you will complete the following tasks:
  
    ![Microsoft Defender for Cloud Snapshot](../images/M1-T1-S1.png)  
 
-
 3. Note that the **top menu** bar allows you to view and filter subscriptions by selecting the **Subscriptions** button. In this lab, we will use only one but selecting different/additional subscriptions will adjust the interface to reflect the security posture of the selected subscriptions.
 
    ![Microsoft Defender for Cloud Snapshot](../images/M1-T1-S2.png)  

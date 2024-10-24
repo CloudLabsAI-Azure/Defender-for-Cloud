@@ -27,7 +27,7 @@ In this lab, you will complete the following tasks:
 
 ### Task 2: Get the status of the Defender coverage on the subscription and the workspace
 
-1. Navigate back to Microsoft Defender for Cloud blade, and click on **Environment settings (1)**. Expand **Azure (2)** to show the **Subscription**, and then expand **Subscription (3)** to show the **Workspace**. Notice the Defender coverage is **11/13 plans (4)** for the subscription and **2/2 plans (4)** for the workspace, meaning that you are now fully protected using Microsoft Defender for Cloud.
+1. Navigate back to Microsoft Defender for Cloud blade, and click on **Environment settings (1)**. Expand **Azure (2)** to show the **Tenant Root Group** then expand **Tenant Root Group (3)** to show **Subscription**, and then expand **Subscription (4)** to show the **Workspace**. Notice the Defender coverage is **11/13 plans (5)** for the subscription and **2/2 plans (5)** for the workspace, meaning that you are now fully protected using Microsoft Defender for Cloud.
 
    ![Environment settings](../images/dfc2.png)
 
