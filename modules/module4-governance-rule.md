@@ -37,7 +37,7 @@ In this lab, you will complete the following tasks:
    - **Email address**: <inject key="AzureAdUserEmail"></inject> **(3)**
    - **Remediation timeframe**: `90 days` **(4)**
 
-    ![](../images/m1-img22_new.png)
+     ![](../images/m1-img22_new.png)
 
 1. On the **Rule created successfully** pop-up select the check box next to **Apply rule to the 42 existing recommendations that are unassigned** and click on **OK**.
 
