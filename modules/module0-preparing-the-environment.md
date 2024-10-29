@@ -62,6 +62,8 @@ In this lab, you will complete the following tasks:
 
    ![Enable Microsoft Defender for Cloud on the workspace level](../images/M0-T3-S5.1.png)
 
+   >**Note**: You won’t be able to enable it since this feature is already deprecated, and we are currently updating the lab guide with an alternative method.
+
  ## Summary
 
 In this lab, you have enabled Microsoft Defender for Cloud, received the status of the Defender coverage on the subscription and the workspace and configured the data collection settings in Microsoft Defender for Cloud.
