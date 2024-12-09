@@ -95,17 +95,41 @@ Feel free to start, stop, or restart your virtual machine as needed from the **R
    
      ![](../images/image8.png "Enter Password")
      
-1. On **Action Required** pop-up, click on **Ask later**.
+1. On **Action Required** pop-up, click on **Next**.
 
-     ![](../images/ask-later.png "Ask Later")
+     ![](../images/mfa1.png "Ask Later")
 
-     >**NOTE: Do not enable MFA, select Ask Later**.
+1. In the Keep your account secure window, The window that appears and the steps that follow are for the Microsoft Authenticator app method. Select **Next**.
+
+   ![](../images/mfa2.png "Ask Later")
+
+    >**NOTE: If you dont have the Microsoft Authenticator app installed on your mobile device , select **Download** now and follow the steps.
+
+1. On the Set up your account page opens, select **Next.**
+
+   ![](../images/mfa3.png "Ask Later")
+
+1. Scan the QR code through your phone. On the phone, inside the Authenticator app select Work or school account, and scan the QR code. Select **Next**.
+
+   ![](../images/mfa4.png "Ask Later")
+
+1. On the Keep your account secure page. Enter the code, which is shown on the Authenticator app.
+
+   ![](../images/mfa5.png "Ask Later")
+
+1. Once the code is entered. click **Next**
+
+   ![](../images/mfa6.png "Ask Later")
+
+1. Select Done, on the Success! page.
+
+    ![](../images/mfa7.png "Ask Later")
 
 1. If you see the pop-up **Stay Signed in?**, click **No**.
 
 1. If you see the pop-up **You have free Azure Advisor recommendations!**, close the window to continue the lab.
 
-1. If a **Welcome to Microsoft Azure** popup window appears, click **Cancel** to skip the tour.
+1. If a **Welcome to Microsoft Azure** popup window appears, click **Maybe Later** to skip the tour.
    
 1. Now you will see the Azure Portal Dashboard, click on **Resource groups** from the Navigate panel to see the resource groups.
 

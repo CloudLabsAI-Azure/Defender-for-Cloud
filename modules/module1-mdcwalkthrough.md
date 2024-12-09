@@ -15,6 +15,7 @@ In this lab, you will complete the following tasks:
 - Task 3: Exploring Security Controls and Recommendations (Read-Only)
 - Task 4: Exploring the Inventory capability
 - Task 5: Understanding pricing
+- Task 6: Overview of CWP capabilities (Read Only)
 
 ### Task 1: Understanding Microsoft Defender for Cloud Dashboard 
 
@@ -123,11 +124,13 @@ Previously, we briefly explored the Secure Score tile on the overview page. Now 
 
 ### Task 3: Exploring Security Controls and Recommendations (Read-Only)
 
-1. On the **Recommendations (1)** page, select the **Switch to classic view** now pay attention to the first part of the page; the **summary view (2)** which includes the current score, progress on the recommendations (both completed security controls and recommendations) and resource health (by severity).
+1. On the **Recommendations (1)** page, select the **Switch to classic view (2)** now pay attention to the first part of the page; the **summary view** which includes the current score, progress on the recommendations (both completed security controls and recommendations) and resource health (by severity).
 
-    ![Overall Secure Score](../images/M1-T2-S3.png)
+    ![Overall Secure Score](../images/task2-tsk3.png)
 
-2. On the top menu, Click on the **Download CSV report** button – this allows you to get a snapshot of your resources, their health status, and the associated recommendations. You can use it for pivoting and reporting.
+    ![Overall Secure Score](../images/task2-tsk3.1.png)
+
+3. On the top menu, Click on the **Download CSV report** button – this allows you to get a snapshot of your resources, their health status, and the associated recommendations. You can use it for pivoting and reporting.
      
      ![Overall Secure Score](../images/classic_view.png)
    
@@ -215,7 +218,7 @@ Asset inventory dashboard allows you to get a single pane of glass view of all y
 
 13. On the **Azure Resource Graph Explorer** blade, click on **Run Query**. You should now have the same list of resources and columns as in the previous step. This query is editable for your needs and here it gets very powerful.
  
-    ![Inventory: Assign tags](../images/run-query.1.png)
+    ![Inventory: Assign tags](../images/task2.1.png)
 
 14. Save the query for later use by clicking on **Save as (1)** from the top menu. You can use it to create periodic reports. Name the report as **asc-filtered-query (2)** and select **Save (3)**.
 
