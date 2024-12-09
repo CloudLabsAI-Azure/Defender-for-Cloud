@@ -19,15 +19,19 @@ In this lab, you will complete the following tasks:
 
    ![Microsoft Defender for Cloud](../images/M0-T1-S1.2.png)   
 
-2. Click on the **Getting started (1)** page from the left pane, from the **Upgrade (2)** tab, select the **Workspace name (3)**. Click on **Upgrade (4)**.
+2. On the **Overview** page, Scroll down and find for **Upgrade to new Defender CSPM plan** and select **Click here to upgrade**
+
+   ![Microsoft Defender for Cloud](../images/task1.1.png)
+
+1. You will be redirected to the **Getting started** page , now select the **Workspace name (1)**. Click on **Upgrade (4)**.
+
+   ![Microsoft Defender for Cloud](../images/task1.2.png)
 
    >**Note:** You may need to wait for a few minutes for the upgrade to complete.
 
-   ![Template deployment completed](../images/dfc1.png)
-
 ### Task 2: Get the status of the Defender coverage on the subscription and the workspace
 
-1. Navigate back to Microsoft Defender for Cloud blade, and click on **Environment settings (1)**. Expand **Azure (2)** to show the **Tenant Root Group** then expand **Tenant Root Group (3)** to show **Subscription**, and then expand **Subscription (4)** to show the **Workspace**. Notice the Defender coverage is **11/13 plans (5)** for the subscription and **2/2 plans (5)** for the workspace, meaning that you are now fully protected using Microsoft Defender for Cloud.
+1. Navigate back to Microsoft Defender for Cloud blade, and click on **Environment settings (1)** under **Management**. Expand **Azure (2)** to show the **Tenant Root Group** then expand **Tenant Root Group (3)** to show **Subscription**, and then expand **Subscription (4)** to show the **Workspace**. Notice the Defender coverage is **11/13 plans (5)** for the subscription and **2/2 plans (5)** for the workspace, meaning that you are now fully protected using Microsoft Defender for Cloud.
 
    ![Environment settings](../images/dfc2.png)
 
