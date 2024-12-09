@@ -69,7 +69,7 @@ In this lab, you will complete the following tasks:
 
 1. Under Subscription, expand Resource Groups and select the Virtual Machines that needs to be associated with Data Collection Rules and click on **Apply.** 
 
-   ![Microsoft Defender for Cloud](../images/task1.6.png)
+   ![Microsoft Defender for Cloud](../images/task1.61.png)
 
 1. On the **Collect and deliver page (1)** click on **Add data source (2)** which allows you to add and configure data sources for the DCR and a destination for each.
 
