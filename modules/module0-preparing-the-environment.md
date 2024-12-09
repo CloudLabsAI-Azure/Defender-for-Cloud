@@ -43,30 +43,51 @@ In this lab, you will complete the following tasks:
 
    ![Environment settings](../images/defender1.1.png)
 
-### Task 3: Configure the data collection settings in Microsoft Defender for Cloud (Read Only)
+### Task 3: Configure Data Collection Settings Using Azure Monitor Agent (AMA) (Read Only)
 
-1. Go back to the **Environment settings** in the sidebar and drill down into your **Subscription**.
+1. Open **Azure Portal** and search for **Monitor(1)** and then click on it from the search results **(2)**.
 
-   ![Environment settings](../images/dfc3.png)
+   ![Microsoft Defender for Cloud](../images/task1-rd2.png)
 
-2. Navigate to **Settings and monitoring (1)**.
+1. On the Monitor menu in the Azure portal under **Settings (1)**, select **Data Collection Rules (2)**  > **Create(3)** to open the DCR creation page.
 
-   ![Auto-provisioning](../images/M0-T3-S2.2.png)
+   ![Microsoft Defender for Cloud](../images/task1.3.png)
 
-3. On the **Settings and monitoring - Extensions** page, set **Log Analytics agent (1)** to **On (2)** (if it's not already set to On). Then 
- click on **Edit configuration (3)** under the configuration column.
+1. The Basic page includes basic information about the DCR, fill the following fields with the values and click on **Resources (6)** Tab.
 
-   ![Auto-provisioning](../images/M0-T3-S3.png)
+   - **Rule Name:** Name for the DCR. The name should be something descriptive that helps you identify the rule **(1)**
+   - **Subscription:** Select the Subscription from the drop-down **(2)**
+   - **Resource group:** Select the Resource group named **lab-vm (3)** 
+   - **Region:** Enter **West US (4)**
+   - **Platform Type:** click on **All (5)**
+  
+   ![Microsoft Defender for Cloud](../images/task1-rd1.png)
 
-5. On the workspace configuration section, in the **Custom workspace** option, verify your workspace **asclab-xxxxx (1)** is present. Click on **Apply (2)** and **Continue**.
+1. The Resources page allows you to add VMs to be associated with the DCR. Select **+ Add resources** to select resources,
 
-   ![Enable Microsoft Defender for Cloud on the workspace level](../images/defender1.3.png)
+   ![Microsoft Defender for Cloud](../images/task1.4.png)
 
-8. Click on **Save**.
+1. Under Subscription, expand Resource Groups and select the Virtual Machines that needs to be associated with Data Collection Rules and click on **Apply** 
 
-   ![Enable Microsoft Defender for Cloud on the workspace level](../images/M0-T3-S5.1.png)
+   ![Microsoft Defender for Cloud](../images/task1.6.png)
 
-   >**Note**: You won’t be able to enable it since this feature is already deprecated, and we are currently updating the lab guide with an alternative method.
+1. On the **Collect and deliver page (1)** click on **Add data source (2)** which allows you to add and configure data sources for the DCR and a destination for each.
+
+   ![Microsoft Defender for Cloud](../images/task1.7.png)
+
+1. On the **Data Source** Pane, Select a Data source type as **Windows Event Logs (1)** , choose **Basic (2)**, and then check all the fields **(3)** under Application, security , System and click on **Destination (4)**.
+
+   ![Microsoft Defender for Cloud](../images/task1.8.png)
+
+1. On the **Destination** Pane, Add one or more destinations for each data source. select **Azure Monitor Logs (1)** for destination type , choose the **Subscription (2)** from the drop-down, select your **Workspace (3) from the destination details and then click on **Save (4)**
+
+   ![Microsoft Defender for Cloud](../images/task1.9.png)
+
+1. Review the settings on the **Review + Create** page to ensure that all configurations for the Data Collection Rule (DCR), including resources, data sources, and destinations, are accurate. Once confirmed, click **Create** to finalize the setup.
+
+   ![Microsoft Defender for Cloud](../images/task1.10.png)
+
+   >**Note:** Creating the DCR establishes a connection between the specified data sources and destinations. This ensures that the configured VMs automatically send the selected data (e.g., Windows Event Logs) to the specified Azure Monitor Logs workspace, facilitating centralized monitoring and analysis.
 
  ## Summary
 
