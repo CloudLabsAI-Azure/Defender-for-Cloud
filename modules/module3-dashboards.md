@@ -28,9 +28,9 @@ In this lab, you will complete the following tasks:
 
    ![Ransomware Recommendations](../images/M3-T1-S2.png)
 
-4. Select **Discovery (1)** and **Container and Resource Discovery (2)**.
+4. Select **Discovery (1)** and **Container and Resource(2)**.
 
-   ![Ransomware Recommendations](../images/M3-T1-S3.png)
+   ![Ransomware Recommendations](../images/task4.1.png)
 
 5. You can filter the techniques. We will leave **All** selected.
 
@@ -42,7 +42,7 @@ In this lab, you will complete the following tasks:
 
 7. You will be taken to the recommendation details that contain remediation steps and an option to fix.
 
-   ![Ransomware Recommendations](../images/M3-T1-S6.png)
+   ![Ransomware Recommendations](../images/task4.2.png)
 
    >**Note:** While accessing the AKS suggestions, you may get some Microsoft API difficulties. This is okay; please proceed to the next step.
 
@@ -56,7 +56,7 @@ In this lab, you will complete the following tasks:
 
 2. You can now see what Defender plans are enabled across different subscriptions.
 
-   ![Coverage](../images/M3-T2-S2.1.png)
+   ![Coverage](../images/task4.3.png)
 
 3. To select the settings of any plan for a given subscription, click the **on** or **off** corresponding to the plan.
 
