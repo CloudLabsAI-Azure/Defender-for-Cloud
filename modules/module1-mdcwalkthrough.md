@@ -15,6 +15,7 @@ In this lab, you will complete the following tasks:
 - Task 3: Exploring Security Controls and Recommendations (Read-Only)
 - Task 4: Exploring the Inventory capability
 - Task 5: Understanding pricing
+- Task 6: Overview of CWP capabilities (Read Only)
 
 ### Task 1: Understanding Microsoft Defender for Cloud Dashboard 
 
