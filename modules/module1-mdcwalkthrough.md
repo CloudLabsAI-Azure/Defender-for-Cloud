@@ -124,7 +124,7 @@ Previously, we briefly explored the Secure Score tile on the overview page. Now 
 
 ### Task 3: Exploring Security Controls and Recommendations (Read-Only)
 
-1. On the **Recommendations (1)** page, select the **Switch to classic view (2)** now pay attention to the first part of the page; the **summary view ** which includes the current score, progress on the recommendations (both completed security controls and recommendations) and resource health (by severity).
+1. On the **Recommendations (1)** page, select the **Switch to classic view (2)** now pay attention to the first part of the page; the **summary view** which includes the current score, progress on the recommendations (both completed security controls and recommendations) and resource health (by severity).
 
     ![Overall Secure Score](../images/task2-tsk3.png)
 
