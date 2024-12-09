@@ -79,7 +79,7 @@ In this lab, you will complete the following tasks:
 
    ![Microsoft Defender for Cloud](../images/task1.8.png)
 
-1. On the **Destination** Pane, Add one or more destinations for each data source. select **Azure Monitor Logs (1)** for destination type , choose the **Subscription (2)** from the drop-down, select your **Workspace (3) from the destination details and then click on **Save (4)**
+1. On the **Destination** Pane, Add one or more destinations for each data source. select **Azure Monitor Logs (1)** for destination type , choose the **Subscription (2)** from the drop-down, select your **Workspace (3)** from the destination details and then click on **Save (4)**
 
    ![Microsoft Defender for Cloud](../images/task1.9.png)
 
