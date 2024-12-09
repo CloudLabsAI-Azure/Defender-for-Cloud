@@ -63,11 +63,11 @@ In this lab, you will complete the following tasks:
   
    ![Microsoft Defender for Cloud](../images/task1-rd1.png)
 
-1. The Resources page allows you to add VMs to be associated with the DCR. Select **+ Add resources** to select resources,
+1. The Resources page allows you to add VMs to be associated with the DCR. Select **+ Add resources** to select resources.
 
    ![Microsoft Defender for Cloud](../images/task1.4.png)
 
-1. Under Subscription, expand Resource Groups and select the Virtual Machines that needs to be associated with Data Collection Rules and click on **Apply** 
+1. Under Subscription, expand Resource Groups and select the Virtual Machines that needs to be associated with Data Collection Rules and click on **Apply.** 
 
    ![Microsoft Defender for Cloud](../images/task1.6.png)
 
