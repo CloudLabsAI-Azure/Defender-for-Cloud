@@ -75,7 +75,7 @@ In this lab, you will complete the following tasks:
 
    ![Microsoft Defender for Cloud](../images/task1.7.png)
 
-1. On the **Data Source** Pane, Select a Data source type as **Windows Event Logs (1)** , choose **Basic (2)**, and then check all the fields **(3)** under Application, security , System and click on **Destination (4)**.
+1. On the **Data Source** Pane, Select a Data source type as **Windows Event Logs (1)** , choose **Basic (2)**, and then check all the fields **(3)** under Application, security , System and click on **Next: Destination (4)**.
 
    ![Microsoft Defender for Cloud](../images/task1.8.png)
 
