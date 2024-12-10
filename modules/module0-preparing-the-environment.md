@@ -23,7 +23,7 @@ In this lab, you will complete the following tasks:
 
    ![Microsoft Defender for Cloud](../images/task1.1.png)
 
-1. You will be redirected to the **Getting started** page , now select the **Workspace name (1)**. Click on **Upgrade (4)**.
+1. You will be redirected to the **Getting started** page , now select the **Workspace name (1)**. Click on **Upgrade (2)**.
 
    ![Microsoft Defender for Cloud](../images/task1.2.png)
 
