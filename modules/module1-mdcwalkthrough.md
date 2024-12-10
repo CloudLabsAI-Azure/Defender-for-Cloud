@@ -98,12 +98,9 @@ In this lab, you will complete the following tasks:
 
     ![Overview: Microsoft Defender  for Cloud tile](../images/dfc5.png)
 
-16. Next Click on **Inventory** from the **General** section of the Microsoft Defender for Cloud. It shows the number of unmonitored VMs alongside the total covered resources - **you should expect to have zero unmonitored VMs**. Resources are classified according to their health status.
+16. Next, click on **Inventory** from the General section of Microsoft Defender for Cloud. It displays the total resources and highlights any unhealthy resources. Resources are classified according to their health status, helping you identify any issues that require attention.
 
-     > Info: 
-     > Unmonitored VMs are considered virtual machines that have a Log Analytics agent deployed, but the agent isn't sending data or has other health issues.
-
-    ![Overview: Secure Score tile](../images/msdefender5.1.png)   
+    ![Overview: Secure Score tile](../images/task1-inv.png)   
 
 ### Task 2: Exploring Secure Score and Recommendations 
 
