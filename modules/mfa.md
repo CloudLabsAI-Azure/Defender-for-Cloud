@@ -103,7 +103,7 @@ Feel free to start, stop, or restart your virtual machine as needed from the **R
 
    ![](../images/mfa2.png "Ask Later")
 
-    >**NOTE: If you dont have the Microsoft Authenticator app installed on your mobile device , select **Download** now and follow the steps.
+    >**NOTE:** If you dont have the Microsoft Authenticator app installed on your mobile device , select **Download** now and follow the steps.
 
 1. On the Set up your account page opens, select **Next.**
 
