@@ -101,14 +101,6 @@ In addition to the workbooks available in the Azure Portal, you can also deploy 
 
 >**Note**: You can repeat this process to deploy other Workbooks from the community repo or any that you have created.
 
-> **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
- 
-- Hit the Validate button for the corresponding task. If you receive a success message, you can proceed to the next task. 
-- If not, carefully read the error message and retry the step, following the instructions in the lab guide.
-- If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
-
-<validation step="50caa03f-b05a-4972-b997-ccbd606bb35c" />
-
 ## Summary
 
 In this lab, you have worked on Ransomware Dashboard , identified the coverage of your attack surface and deployed community workbooks.
