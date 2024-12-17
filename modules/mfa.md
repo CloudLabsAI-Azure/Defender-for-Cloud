@@ -94,6 +94,10 @@ Feel free to start, stop, or restart your virtual machine as needed from the **R
    * Password: **<inject key="AzureAdUserPassword" enableCopy="true"/>**
    
      ![](../images/image8.png "Enter Password")
+
+1. 1. On **Action Required** pop-up, click on **Ask later**. Incase if you dont get the option to Skip this, then please follow the below steps to setup MFA.
+
+     ![](../images/ask-later.png "Ask Later")
      
 1. On **Action Required** pop-up, click on **Next**.
 
