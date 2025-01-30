@@ -10,7 +10,7 @@ The rule assigns an owner and due date to ensure the recommendations are handled
 
 - **Workload owners**: Focus on the specific recommendations that require their attention. They'll also be able to delegate recommendations to others or set expectations for when the recommendations will be implemented.
 
-## Lab objectives
+## Lab Objectives
 
 In this lab, you will complete the following tasks:
 
@@ -43,13 +43,23 @@ In this lab, you will complete the following tasks:
 
    ![](../images/a1.6.png)
 
-   >**Note:** You might have different pop-up wherein the existing recommendations count may vary.
+   >**Note:** You might see a different pop-up where the existing recommendations count may vary.
 
 1. Click on **Governance report** to view the status of tasks **Complete, Ontime and Unassign**.
 
    ![](../images/m1-img23.png)
     
    ![](../images/m1-img24.png)
+
+## Validation
+
+> **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
+ 
+- Hit the Validate button for the corresponding task. you will receive a success message.
+- If not, carefully read the error message and retry the step, following the instructions in the lab guide.
+- If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
+
+   <validation step="5f242815-a4bb-4a74-a4c1-b360304165fb" />
 
 ## Summary
 

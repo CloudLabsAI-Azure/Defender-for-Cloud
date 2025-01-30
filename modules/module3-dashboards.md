@@ -6,7 +6,7 @@
 
 Other than the overall dashboard we discussed in Lab2, Microsoft Defender for Cloud provides several purpose-built reports, which are presented as workbooks.
 
-## Lab objectives
+## Lab Objectives
 
 In this lab, you will complete the following tasks:
 
@@ -44,7 +44,7 @@ In this lab, you will complete the following tasks:
 
    ![Ransomware Recommendations](../images/task4.2.png)
 
-   >**Note:** While accessing the AKS suggestions, you may get some Microsoft API difficulties. This is okay; please proceed to the next step.
+   >**Note:** While accessing AKS suggestions, you might encounter some Microsoft API issues. This is expected; please continue to the next step.
 
 9. Close the workbook by clicking the **X** at the top right corner of the screen.
 
@@ -83,7 +83,7 @@ In addition to the workbooks available in the Azure Portal, you can also deploy 
 
    ![Community Workbook](../images/M3-T3-S3.png)
 
-4. Choose the **subscription (1)** and select **asclab-WAF (2)** for **Resource Group** from the dropdown, leaving other settings unchanged. Press the **Review + Create (3)** button at the bottom left corner. On the subsequent screen, press **Create**.
+4. Choose the **subscription (1)** and select **asclab-WAF (2)** for **Resource Group** from the dropdown, leaving other settings unchanged. click the **Review + Create (3)** button at the bottom left corner. On the subsequent screen, click **Create**.
 
    ![Community Workbook](../images/M3-T3-S4.png)
 
@@ -99,7 +99,17 @@ In addition to the workbooks available in the Azure Portal, you can also deploy 
 
    ![Community Workbook](../images/M3-T3-S7-1.png)
 
->**Note**: You can repeat this process to deploy other Workbooks from the community repo or any that you have created.
+>**Note**: You can repeat this process to deploy additional Workbooks from the community repository or any that you have created.
+
+## Validation
+
+> **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
+ 
+- Hit the Validate button for the corresponding task. you will receive a success message.
+- If not, carefully read the error message and retry the step, following the instructions in the lab guide.
+- If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
+
+   <validation step="50caa03f-b05a-4972-b997-ccbd606bb35c" />
 
 ## Summary
 

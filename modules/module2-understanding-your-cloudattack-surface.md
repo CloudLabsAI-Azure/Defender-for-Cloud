@@ -23,9 +23,9 @@ In this lab, you will complete the following tasks:
 
 ### Task 1: Identify likely points of entry (Read-Only)
 
-1. In Azure Portal, search for **Microsoft Defender for Cloud (1)** and then click on it from the search results **(2)**.
+1. In the search bar, type **Microsoft Defender (1)** and select **Microsoft Defender for Cloud (2)** from the results.
 
-   ![Attack Paths](../images/M0-T1-S1.2.png)
+    ![Microsoft Defender for Cloud](../images/M0-T1-S1.2.png)   
 
 2. From the **Defender for Cloud** menu, click on the **Recommendations (1)** blade to see different Attack Paths that Defender has identified. Attack Path looks for points of entries and lateral movement not only in Azure but also in AWS and GCP. Click on the **Attack path (2)**.
 
@@ -80,7 +80,7 @@ In this lab, you will complete the following tasks:
 
    ![Cloud Security Explorer Custom Scenario](../images/attack5_1.png?raw=true)
 
-1. From the drop-down of **Click on + button (1)** to enable new options, under **Where** select **Port (2)**, and on **Equals** enter **3389 (3)** next to exposed to the internet.
+1. From the drop-down of click on **+ button (1)** to enable new options, under **Where** select **Port (2)**, and on **Equals** enter **3389 (3)** next to exposed to the internet.
 
    ![Cloud Security Explorer Custom Scenario](../images/3.png)
 

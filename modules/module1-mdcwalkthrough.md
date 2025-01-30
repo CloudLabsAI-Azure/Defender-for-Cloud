@@ -19,7 +19,7 @@ In this lab, you will complete the following tasks:
 
 ### Task 1: Understanding Microsoft Defender for Cloud Dashboard 
 
-1. Open **Azure Portal** and search for **Microsoft Defender for Cloud (1)** and then click on it from the search results **(2)**.
+1. In the search bar, type **Microsoft Defender (1)** and select **Microsoft Defender for Cloud (2)** from the results.
 
     ![Microsoft Defender for Cloud](../images/M0-T1-S1.2.png)   
 
@@ -63,7 +63,7 @@ In this lab, you will complete the following tasks:
 
 9. On the **Regulatory Compliance (1)** tile, you can get insights into your compliance posture based on continuous assessment of both Azure and hybrid cloud environments. This tile shows the following standards which are **Microsoft Cloud Security benchmark (2)**, and **Lowest compliance regulatory standard (3)** to view the data we first need to add **Security policies**. 
  
-    > Clicking on this tile will redirect you to the Regulatory Compliance dashboard – where you can add additional standards and explore the current ones. 
+    >**Note:** Clicking on this tile will take you to the Regulatory Compliance dashboard, where you can add new standards and explore the existing ones.
 
     ![Overview: Regulatory Compliance tile](../images/regcomp.png)
    
@@ -81,20 +81,20 @@ In this lab, you will complete the following tasks:
 
 13. On the **Set parameters** blade, enter the following details and click on **Save (4)**.
 
-	- Allowed registry or registries regex: **[] (1)**
- 	- Max allowed CPU units: **200m (2)**
-   	- Max allowed memory bytes: **1 (3)** 
+   - Allowed registry or registries regex: **[] (1)**
+   - Max allowed CPU units: **200m (2)**
+   - Max allowed memory bytes: **1 (3)** 
 
-      ![Overview: Regulatory Compliance tile](../images/defender1.6.png) 
+     ![Overview: Regulatory Compliance tile](../images/defender1.6.png) 
 
 
 14. Navigate back to **Regulatory Compliance** to view the recently added standards click on **Show all**.
 
-    > **Note**: It can take up to two hours for newly added standards to appear under the **Lowest compliance regulatory standard**. Please move on to the next step; you can review the standards later.
-
     ![Overview: Regulatory Compliance tile](../images/regulatory.png)
 
-15. On the **Workload Protections** **(1)**, under Cloud Security, you can see the coverage of your **connected resources (2)** for the currently selected subscription. Your current resource coverage should be **fully covered 100% (3)** which means **full protection**. Additionally, you can also view the recent **security alerts (4)**, color-coded by severity.
+    > **Note**:It may take up to two hours for newly added standards to appear under the **Lowest compliance regulatory standard**. Please proceed to the next step, and you can review the standards later.
+
+15. On the **Workload Protections** **(1)**, under Cloud Security, Your current resource coverage should be **fully covered 100% (2)** which means **full protection**, you can see the coverage of your **connected resources (3)** for the currently selected subscription. Additionally, you can also view the recent **security alerts (4)**, color-coded by severity.
 
     ![Overview: Microsoft Defender  for Cloud tile](../images/dfc5.png)
 
@@ -112,9 +112,10 @@ Previously, we briefly explored the Secure Score tile on the overview page. Now 
 
 2. On the Secure score page, **review your current overall secure score percentage**.
 
-	> **Note**: Your score is shown as a percentage value, but you can also see the number of points on which the score is being calculated based on. 
-
     ![Overall Secure Score](../images/dfc6.png)
+
+   > **Note**: Your score is shown as a percentage value, but you can also see the number of points on which the score is being calculated based on. 
+
    > For more information on how the score is calculated, [refer to the secure score documentation page](https://docs.microsoft.com/en-us/azure/security-center/secure-score-security-controls#how-your-secure-score-is-calculated).
 
 3. On the bottom part, you can see a list of subscriptions and their current score. To view the recommendations behind the score, click on **view recommendations**.
@@ -123,33 +124,33 @@ Previously, we briefly explored the Secure Score tile on the overview page. Now 
 
 1. On the **Recommendations (1)** page, select the **Switch to classic view (2)** now pay attention to the first part of the page; the **summary view** which includes the current score, progress on the recommendations (both completed security controls and recommendations) and resource health (by severity).
 
-    ![Overall Secure Score](../images/task2-tsk3.png)
+   ![Overall Secure Score](../images/task2-tsk3.png)
 
-    ![Overall Secure Score](../images/task2-tsk3.1.png)
+   ![Overall Secure Score](../images/task2-tsk3.1.png)
 
 3. On the top menu, Click on the **Download CSV report** button – this allows you to get a snapshot of your resources, their health status, and the associated recommendations. You can use it for pivoting and reporting.
-     
-     ![Overall Secure Score](../images/classic_view.png)
    
-     ![Overall Secure Score](../images/M1-T3-S3.png)
+    ![Overall Secure Score](../images/M1-T3-S3.png)
 
-4. Under **Recommendation**, Click on **Manage access and permissions** and select **Storage account public access should be disallowed** from the drop down list.
+4. Under **Recommendation**, Click on **Manage access and permissions (1)** and select **Storage account public access should be disallowed (2)** from the drop down list.
 
-     ![](../images/M1-T3-S6.1.png)
+    ![](../images/4.png)
+
+   > **Note:** You should switch to the classic view for **Recommendations**.
 
 5. On the top section, notice the following:
 
-   - Title of the recommendation: **Storage account public access should be disallowed**
-   - Top menu controls: **Exempt**, **Deny**, **View policy definition** and **Open query**
-   - Severity indicator: **Medium**
-   - Freshness interval: **30 Min** 
-   - Tactics and techniques: **Initial Access**
+   - Title of the recommendation: **Storage account public access should be disallowed (1)**
+   - Top menu controls: **Exempt**, **Deny**, **View policy definition** and **Open query** **(2)**
+   - Severity indicator: **Medium (3)**
+   - Freshness interval: **30 Min (4)** 
+   - Tactics and techniques: **Initial Access (5)**
 
-   ![Recommendation top menu](../images/stacc-public-access.png)
+     ![Recommendation top menu](../images/stacc-public-access.png)
 
 6. The next important part is the **Remediation Steps** which contains the remediation logic where you can remediate the selected resource/s.
 
-7. Under **Affected resources**, **select a resource** (the single **storage account** on the Unhealthy resources) and click on **Fix**. This will automatically apply the remediation on the selected resource.
+7. Under **Affected resources (1)**, **select a resource** (the single **storage account (2)** on the Unhealthy resources) and click on **Fix (3)**. This will automatically apply the remediation on the selected resource.
 
      ![](../images/affectedresources.png)
   
@@ -167,15 +168,19 @@ Previously, we briefly explored the Secure Score tile on the overview page. Now 
 
 Asset inventory dashboard allows you to get a single pane of glass view of all your resources covered by Microsoft Defender for Cloud. It also provides per-resource visibility to all Microsoft Defender for Cloud’s information and additional resource details including security posture and protection status. Since this dashboard is based on Azure Resource Graph (ARG), you can run queries across subscriptions at a large scale, quickly and easily.
 
-1. Type **Microsoft Defender for Cloud** in the search box located on the top of the **Azure Portal** page and click to open it. From the left navigation pane, under the **General** section, select the **Inventory** button.
+1. In the search bar, type **Microsoft Defender (1)** and select **Microsoft Defender for Cloud (2)** from the results.
 
-     ![](../images/inventory1.png)
+    ![Microsoft Defender for Cloud](../images/M0-T1-S1.2.png)   
+
+1. From the left navigation pane, under the **General** section, click the **Inventory** button.
+
+    ![](../images/inventory1.png)
     
-2. Hover to the **Summaries strip** at the top of the page.
+2. Hover your cursor over the **Summaries strip** at the top of the page.
 
-     ![](../images/inventory1.1.png)
+   ![](../images/inventory1.1.png)
 
-    > **Note**: In your environment, these numbers may not be the same, since it varies in time
+   >**Note**: In your environment, these numbers may not be the same, since it varies in time
 
 3. Notice the total number of resources, The total number of resources are the ones that are connected to the Microsoft Defender for Cloud and NOT the total number of resources that you have in your subscriptions.
 
@@ -201,7 +206,7 @@ Asset inventory dashboard allows you to get a single pane of glass view of all y
 
     > **Note:** The list can be filtered and sorted.
 
-10. From the filter menu, select the **Resource Group** filter and **select all** under the Value. Again from the **Add filter menu (1)**, select **Recommendations**, uncheck the **select all** option under the Value, search for **Auditing on SQL Server should be enabled (2)** and then select the **Auditing on SQL Server should be enabled (3)** and click on **Apply (4)**. You can also use the search area within the filter to better find items across the list. When you are done exploring remember to clear your filter.
+10. From the filter menu, select the **Resource Group** filter and **select all** under the Value. Again from the **Add filter menu (1)**, select **Recommendations**, **uncheck** the **All** option under the Value, search for **Auditing on SQL Server should be enabled (2)** and then select the **Auditing on SQL Server should be enabled (3)** and click on **Apply (4)**. You can also use the search area within the filter to better find items across the list. When you are done exploring remember to clear your filter.
 
      ![Remediate a resource](../images/1.png)
    
@@ -225,19 +230,20 @@ Asset inventory dashboard allows you to get a single pane of glass view of all y
 
 The pricing criteria depend on the plan you enable. In addition, as a part of Foundational CSPM (free), you get several items like Secure Score, Asset Inventory, Security Recommendations, etc.
 
-Refer to the following to learn more about Defender for cloud pricing:
-
- - [Pricing Page](https://azure.microsoft.com/en-us/pricing/details/defender-for-cloud/?v=17.23h)
-
- - [Foundational CSPM vs. Defender CSPM capabilities](https://learn.microsoft.com/en-us/azure/defender-for-cloud/concept-cloud-security-posture-management)
 
 1. From **Microsoft Defender for Cloud**, click on **Workbooks (1)** select **Public Templates (2)** tab and click on **Cost Estimation (3)** 
 
     ![MDC pricing](../images/costdefnder.png)
 
-2. In the **Cost Estimation** workbook, you can observe the estimated pricing for the resources in both the Defender plans for Azure.
+2. In the **Cost Estimation** workbook, you can observe the estimated pricing for the resources in the Defender plans for Azure.
 
     ![MDC pricing](../images/costworkbook_new.png)
+
+Refer to the following to learn more about Defender for cloud pricing:
+
+ - [Pricing Page](https://azure.microsoft.com/en-us/pricing/details/defender-for-cloud/?v=17.23h)
+
+ - [Foundational CSPM vs. Defender CSPM capabilities](https://learn.microsoft.com/en-us/azure/defender-for-cloud/concept-cloud-security-posture-management)
    
 ### Task 6: Overview of CWP capabilities  (Read Only) 
 
@@ -247,7 +253,7 @@ Refer to the following to learn more about Defender for cloud pricing:
 
    ***The dashboard includes the following sections:***
 
-	- **Microsoft Defender for Cloud coverage (1)** - Here you can see the resource types that are in your subscription and eligible for protection by Defender for Cloud. Wherever relevant, you can upgrade here as well. If you want to upgrade all possible eligible resources, select Upgrade All.
+	- **Defender for Cloud coverage (1)** - Here you can see the resource types that are in your subscription and eligible for protection by Defender for Cloud. Wherever relevant, you can upgrade here as well. If you want to upgrade all possible eligible resources, select Upgrade All.
 
 	- **Security alerts (2)** - When Defender for Cloud detects a threat in any area of your environment, it generates an alert. These alerts describe details of the affected resources, suggested remediation steps, and in some cases an option to trigger a logic app in response. Selecting anywhere in this graph opens the Security Alerts page.
 
