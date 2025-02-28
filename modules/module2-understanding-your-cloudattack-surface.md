@@ -88,7 +88,7 @@ In this lab, you will complete the following tasks:
 
    ![Cloud Security Explorer Custom Scenario](../images/attack10.png?raw=true)
 
->**Note:** All the machines shown in the image won't be available.
+   >**Note:** All the machines shown in the image won't be available.
 
 ## Summary
 

@@ -39,7 +39,7 @@ In this lab, you will complete the following tasks:
 
      ![](../images/m1-img22_new.png)
 
-1. On the **Rule created successfully** pop-up select the check box next to **Apply rule to the 42 existing recommendations that are unassigned** and click on **OK**.
+1. On the **Rule created successfully** pop-up select the check box next to **Apply rule to the 29 existing recommendations that are unassigned** and click on **OK**.
 
    ![](../images/a1.6.png)
 
