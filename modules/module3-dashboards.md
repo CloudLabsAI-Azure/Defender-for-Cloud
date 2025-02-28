@@ -36,7 +36,7 @@ In this lab, you will complete the following tasks:
 
    ![Ransomware Recommendations](../images/M3-T1-S4.png)
 
-6. Click on expand grid **(1)**, next under the **Discover (2)** section, select **asclab-aks (3)**, and click the **Go to recommendation (4)** link.
+6. Click on expand grid **(1)**, next under the **Discovery (2)** section, select **asclab-aks (3)**, and click the **Go to recommendation (4)** link.
 
    ![Ransomware Recommendations](../images/dfc7.png)
 
@@ -83,7 +83,7 @@ In addition to the workbooks available in the Azure Portal, you can also deploy 
 
    ![Community Workbook](../images/M3-T3-S3.png)
 
-4. Choose the **subscription (1)** and select **asclab-WAF (2)** for **Resource Group** from the dropdown, leaving other settings unchanged. click the **Review + Create (3)** button at the bottom left corner. On the subsequent screen, click **Create**.
+4. Choose the **subscription (1)** and select **asclab-waf (2)** for **Resource Group** from the dropdown, leaving other settings unchanged. click the **Review + Create (3)** button at the bottom left corner. On the subsequent screen, click **Create**.
 
    ![Community Workbook](../images/M3-T3-S4.png)
 
@@ -91,7 +91,7 @@ In addition to the workbooks available in the Azure Portal, you can also deploy 
 
    ![Community Workbook](../images/M3-T3-S5.png)
 
-6. Click on **Open Workbook**.
+6. Select the **Azure Workbook**, and click on **Open Workbook**.
    
    ![Community Workbook](../images/M3-T3-S6.png)
 
@@ -99,7 +99,7 @@ In addition to the workbooks available in the Azure Portal, you can also deploy 
 
    ![Community Workbook](../images/M3-T3-S7-1.png)
 
->**Note**: You can repeat this process to deploy additional Workbooks from the community repository or any that you have created.
+   >**Note**: You can repeat this process to deploy additional Workbooks from the community repository or any that you have created.
 
 ## Validation
 
