@@ -1,6 +1,6 @@
 # Lab 04: Dashboards
 
-### Estimated Duration: 20 minutes
+### Estimated Duration: 30 minutes
 
 ## Lab Overview
 
