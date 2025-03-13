@@ -1,6 +1,6 @@
 # Lab 05: Governance Rule
 
-### Estimated Duration: 20 minutes
+### Estimated Duration: 40 minutes
 
 Governance rules can identify resources that require remediation according to specific recommendations or severities. Microsoft Defender for Cloud continuously assesses your hybrid and multi-cloud workloads and provides you with recommendations to harden your assets and enhance your security posture.
 Central security teams often experience challenges when driving the personnel within their organizations to implement recommendations. 
