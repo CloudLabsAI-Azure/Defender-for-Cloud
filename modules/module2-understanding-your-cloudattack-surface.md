@@ -1,6 +1,6 @@
-# Lab 03:  Understanding your Cloud Attack Surface
+# Lab 03: Understanding your Cloud Attack Surface
 
-### Estimated Duration: 30 minutes
+### Estimated Duration: 1 hours
 
 As demonstrated in Lab 2, Defender for Cloud CSPM will help you identify weaknesses against best practices based on the workload running in your Azure tenant or subscription. These deviations are presented as recommendations, and we performed a walkthrough of some of them. 
 
