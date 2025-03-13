@@ -1,6 +1,6 @@
 # Lab 01: Preparing the Environment
 
-### Estimated Duration: 10 minutes
+### Estimated Duration: 30 minutes
 
 ## Lab Scenario
 
