@@ -1,6 +1,6 @@
 # Lab 02: Exploring Microsoft Defender for Cloud
 
-### Estimated Duration: 40 minutes
+### Estimated Duration: 1 hours
 
 ## Lab Scenario
 
