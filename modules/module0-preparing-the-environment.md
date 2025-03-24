@@ -63,7 +63,7 @@ In this lab, you will complete the following tasks:
    - **Rule Name:** Enter **Production-default (1)**
    - **Subscription:** Select the subscription from the drop-down menu **(2)**
    - **Resource group:** Choose the resource group named **lab-vm (3)**
-   - **Region:** Enter **West US (4)**
+   - **Region:** Enter **<inject key="location" enableCopy="false"/> (4)**
    - **Platform Type:** Click on **All (5)**
   
      ![Microsoft Defender for Cloud](../images/task1-rd1.png)
